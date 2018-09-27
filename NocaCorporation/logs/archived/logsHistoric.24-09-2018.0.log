@@ -1,0 +1,30 @@
+24-09-2018 11:55:27 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 3012 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 11:55:27 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 11:55:38 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 12.227 seconds (JVM running for 14.708)
+24-09-2018 11:56:29 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 10460 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 11:56:29 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 11:56:37 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 9.287 seconds (JVM running for 11.563)
+24-09-2018 22:12:08 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 1084 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:12:08 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:12:20 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 11.622 seconds (JVM running for 13.865)
+24-09-2018 22:14:23 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 3356 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:14:23 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:14:31 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.399 seconds (JVM running for 9.8)
+24-09-2018 22:15:25 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 12576 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:15:25 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:15:33 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.383 seconds (JVM running for 9.774)
+24-09-2018 22:16:11 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 10576 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:16:11 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:16:19 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.319 seconds (JVM running for 9.669)
+24-09-2018 22:18:17 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 17064 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:18:17 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:18:25 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.267 seconds (JVM running for 9.743)
+24-09-2018 22:21:03 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 9912 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:21:03 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:21:11 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.149 seconds (JVM running for 9.745)
+24-09-2018 22:22:04 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 3864 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:22:04 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:22:12 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.374 seconds (JVM running for 9.822)
+24-09-2018 22:23:24 [main] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13840 (C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+24-09-2018 22:23:24 [main] {662} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+24-09-2018 22:23:31 [main] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.036 seconds (JVM running for 9.447)

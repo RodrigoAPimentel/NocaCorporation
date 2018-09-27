@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html th:lang=”${#locale.language}” xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org"	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+	
+	<head>
+		<meta charset="utf-8"> <!-- Para usar caracteres Unicode (acentos e cedilha) -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- força o IE a usar as definições de CSS mais recentes, e evita que ele quebre o visual quando estiver no Modo de Compatibilidade. -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Design Responsivo. Faz o site ocupar todo o espaço disponível na janela, tanto em celulares, como em tablets ou em PC’s. -->
+	
+		<!-- core CSS -->
+		<link rel="stylesheet" th:href="@{css/bootstrap.min.css}" />
+		<link rel="stylesheet" th:href="@{css/font-awesome.min.css}" />
+		<link rel="stylesheet" th:href="@{css/animate.min.css}" />
+		<link rel="stylesheet" th:href="@{css/owl.carousel.css}" />
+		<link rel="stylesheet" th:href="@{css/owl.transitions.css}" />
+		<link rel="stylesheet" th:href="@{css/prettyPhoto.css}" />
+		<link rel="stylesheet" th:href="@{css/magnific-popup.css}" />
+		<link rel="stylesheet" th:href="@{css/gallery-1.css}" />
+		<link rel="stylesheet" th:href="@{css/styles.css}" />
+	
+		<!-- Icone da aba do navegador -->
+		<link rel="shortcut icon" th:href=@{images/ico/icon.png}>
+	
+		<!-- Titulo da aba do navegador -->
+		<title>Insert title here</title>
+	</head>
+	
+	<body id="home">
+
+	    <header id="header">
+	        
+	        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+	           
+	            <div class="container">
+	                
+	                <div class="navbar-header">
+	                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	                        <span class="sr-only">Toggle navigation</span>
+	                        <span class="icon-bar"></span>
+	                        <span class="icon-bar"></span>
+	                        <span class="icon-bar"></span>
+	                    </button>
+						<i class="fa fa-car" aria-hidden="true"></i>
+	                    <div class="logoSection"> <a class="navbar-brand" href="/">Noca</a>
+						<span class="caption">Car Rental</span>
+						</div>
+	                </div>
+					
+	                <div class="collapse navbar-collapse navbar-right">
+	                    <ul class="nav navbar-nav">
+	                        <li class="scroll active"><a href="#home">Home</a></li> 
+	                        <li class="scroll"><a href="#services">Serviços</a></li>
+	                        <li class="scroll"><a href="#about">Sobre</a></li>
+	                        <li class="scroll"><a href="#portfolio">Frota</a></li>
+	                        <li class="scroll"><a href="#our-team">Equipe</a></li>
+	                        <li class="scroll"><a href="#pricing">Planos</a></li>
+	                        <li class="scroll"><a href="#contact-us">Contato</a></li>                        
+	                    </ul>
+	                </div>
+	                
+	            </div>
+	            
+	        </nav>
+	        
+	    </header>
+	    
+	    
+	    
+	    
+	
+	</body>
+</html>

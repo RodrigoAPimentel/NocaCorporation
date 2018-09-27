@@ -1,0 +1,554 @@
+18-09-2018 10:58:00 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 10:58:01 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 5940 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 10:58:01 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 10:58:16 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.403 seconds (JVM running for 17.604)
+18-09-2018 10:58:16 [main] {150} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 10:58:17 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 10:58:17 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 10:58:17 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 10:58:17 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 10:58:17 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 10:58:17 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 10:58:17 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 10:58:17 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 10:58:17 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 10:58:18 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 10:58:18 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 10:58:18 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 10:58:18 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 10:58:18 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 10:58:18 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 10:58:18 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 10:58:44 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 10:58:45 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 14688 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 10:58:45 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 10:58:59 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.433 seconds (JVM running for 16.648)
+18-09-2018 10:58:59 [main] {150} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 10:59:00 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 10:59:00 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 10:59:00 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 10:59:00 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 10:59:00 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 10:59:00 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 10:59:00 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 10:59:00 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 10:59:00 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 10:59:01 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 10:59:01 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 10:59:01 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 10:59:01 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 10:59:01 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 10:59:01 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 10:59:01 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 10:59:42 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 10:59:43 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2456 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 10:59:43 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 10:59:57 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.981 seconds (JVM running for 17.343)
+18-09-2018 10:59:58 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 10:59:58 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 10:59:58 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 10:59:58 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 10:59:59 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 10:59:59 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 10:59:59 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 10:59:59 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 10:59:59 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 10:59:59 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 10:59:59 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 10:59:59 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 10:59:59 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 10:59:59 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 10:59:59 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 10:59:59 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:01:38 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:01:39 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7264 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:01:39 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:01:54 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.93 seconds (JVM running for 18.674)
+18-09-2018 11:01:55 [main] {150} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:01:56 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:01:56 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:01:56 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:01:56 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:01:56 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:01:56 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:01:56 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:01:56 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:01:56 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:01:56 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:01:56 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:01:56 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:01:56 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:01:56 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:01:56 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:01:56 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:03:07 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:03:08 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 5736 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:03:08 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:03:23 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.096 seconds (JVM running for 17.177)
+18-09-2018 11:03:23 [main] {150} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:03:24 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:03:24 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:03:24 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:03:24 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:03:24 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:03:24 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:03:24 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:03:24 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:03:24 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:03:24 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:03:24 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:03:25 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:03:25 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:03:25 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:03:25 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:03:25 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:03:31 [main] {100} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:03:32 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 8160 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:03:32 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:03:48 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 16.094 seconds (JVM running for 18.472)
+18-09-2018 11:03:48 [main] {150} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:03:49 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:03:49 [main] {174} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:03:49 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:03:49 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:03:49 [main] {205} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:03:49 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:03:49 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:03:49 [main] {230} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:03:49 [main] {240} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:03:49 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:03:49 [main] {257} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:03:49 [main] {269} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:03:49 [main] {279} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:03:49 [main] {286} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:03:49 [main] {293} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:03:49 [main] {304} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:10:56 [main] {98} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:10:57 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15200 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:10:57 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:11:13 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 16.533 seconds (JVM running for 18.579)
+18-09-2018 11:11:13 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:11:14 [main] {162} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:11:14 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:11:14 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:11:14 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:11:15 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:11:15 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:11:15 [main] {219} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:11:15 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:11:15 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:11:15 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:11:15 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:11:15 [main] {267} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:11:15 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:11:15 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:11:15 [main] {291} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:11:15 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:16:34 [main] {98} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:16:34 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 13284 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:16:35 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:16:49 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.3 seconds (JVM running for 17.666)
+18-09-2018 11:16:49 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:16:50 [main] {162} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:16:50 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:16:50 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:16:50 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:16:51 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:16:51 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:16:51 [main] {219} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:16:51 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:16:51 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:16:51 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:16:51 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:16:51 [main] {267} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:16:51 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:16:51 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:16:51 [main] {291} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:16:51 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:17:33 [main] {98} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:17:33 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12364 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:17:33 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:17:48 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.78 seconds (JVM running for 16.91)
+18-09-2018 11:17:48 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:17:49 [main] {162} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:17:49 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:17:49 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:17:49 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:17:49 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:17:49 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:17:49 [main] {219} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:17:49 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:17:49 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:17:49 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:17:49 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:17:49 [main] {267} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:17:50 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:17:50 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:17:50 [main] {291} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:17:50 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:18:42 [main] {98} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:18:43 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2208 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:18:43 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:18:57 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.471 seconds (JVM running for 16.71)
+18-09-2018 11:18:57 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:18:58 [main] {162} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:18:58 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:18:58 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:18:58 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:18:58 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:18:58 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:18:58 [main] {219} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:18:59 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:18:59 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:18:59 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:18:59 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:18:59 [main] {267} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:18:59 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:18:59 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:18:59 [main] {291} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:18:59 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:21:31 [main] {98} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:21:32 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9948 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:21:32 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:21:46 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.79 seconds (JVM running for 17.039)
+18-09-2018 11:21:47 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:21:48 [main] {162} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:21:48 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:21:48 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:21:48 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:21:48 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:21:48 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:21:48 [main] {219} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:21:48 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:21:48 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:21:48 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:21:48 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:21:48 [main] {267} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:21:48 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:21:48 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:21:48 [main] {291} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:21:48 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:51:35 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:51:36 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2596 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:51:36 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:51:53 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 17.797 seconds (JVM running for 19.975)
+18-09-2018 11:51:54 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:51:55 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 11:51:55 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:51:55 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:51:55 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:51:55 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:51:55 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:51:55 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:51:55 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:51:55 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:51:55 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:51:56 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:51:56 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:51:56 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:51:56 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:51:56 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:51:56 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:51:56 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:51:56 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 11:51:56 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 11:51:56 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 11:53:21 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:53:22 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15640 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:53:22 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:53:41 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 20.124 seconds (JVM running for 22.738)
+18-09-2018 11:53:42 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:53:43 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:53:43 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:53:43 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:53:43 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:53:44 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:53:44 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:53:44 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:53:44 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:53:44 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:53:44 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:53:44 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:53:44 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:53:44 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:53:44 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:53:44 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:53:44 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:53:44 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 11:53:44 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 11:53:44 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 11:53:44 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 11:54:46 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 11:54:47 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15612 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 11:54:47 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 11:55:04 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 18.029 seconds (JVM running for 20.835)
+18-09-2018 11:55:05 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 11:55:05 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 11:55:06 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 11:55:06 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 11:55:06 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 11:55:06 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 11:55:06 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 11:55:06 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 11:55:06 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 11:55:06 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 11:55:06 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 11:55:06 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 11:55:06 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 11:55:06 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 11:55:06 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 11:55:06 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 11:55:06 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 11:55:06 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 11:55:06 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 11:55:07 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 11:55:07 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 12:02:32 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 12:02:33 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4032 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 12:02:33 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 12:02:48 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.265 seconds (JVM running for 17.778)
+18-09-2018 12:02:48 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 12:02:49 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 12:02:49 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 12:02:50 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 12:02:50 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 12:02:50 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 12:02:50 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 12:02:50 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 12:02:50 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 12:02:50 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 12:02:50 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 12:02:50 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 12:02:50 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 12:02:50 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 12:02:50 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 12:02:50 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 12:02:51 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 12:02:51 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 12:02:51 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 12:02:51 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 12:02:51 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 12:08:35 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 12:08:36 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15964 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 12:08:36 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 12:08:51 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.442 seconds (JVM running for 17.997)
+18-09-2018 12:08:52 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 12:08:53 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 12:08:53 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 12:08:53 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 12:08:53 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 12:08:53 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 12:08:54 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 12:08:54 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 12:08:54 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 12:08:54 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 12:08:54 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 12:08:54 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 12:08:54 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 12:08:54 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 12:08:54 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 12:08:54 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 12:08:54 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 12:08:54 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 12:08:54 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 12:08:54 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 12:08:54 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 13:31:03 [main] {103} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 13:31:04 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4916 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 13:31:04 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 13:31:21 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 17.813 seconds (JVM running for 21.919)
+18-09-2018 13:31:22 [main] {157} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 13:31:23 [main] {172} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 13:31:23 [main] {182} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 13:31:23 [main] {194} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 13:31:23 [main] {203} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 13:31:23 [main] {213} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 13:31:23 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 13:31:23 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 13:31:23 [main] {238} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 13:31:24 [main] {248} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 13:31:24 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 13:31:24 [main] {265} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 13:31:24 [main] {277} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 13:31:24 [main] {287} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 13:31:24 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 13:31:24 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 13:31:24 [main] {312} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 13:31:24 [main] {346} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tesUQRemoveClientePJ||
+18-09-2018 13:31:24 [main] {321} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 13:31:24 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 13:31:24 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:37:37 [main] {110} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 15:37:38 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4764 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 15:37:38 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 15:37:55 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 18.25 seconds (JVM running for 20.881)
+18-09-2018 15:37:56 [main] {165} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 15:37:57 [main] {180} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 15:37:57 [main] {190} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 15:37:57 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 15:37:57 [main] {211} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 15:37:57 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 15:37:57 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 15:37:57 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 15:37:58 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 15:37:58 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 15:37:58 [main] {264} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 15:37:58 [main] {273} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 15:37:58 [main] {285} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 15:37:58 [main] {295} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 15:37:58 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 15:37:58 [main] {309} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 15:37:58 [main] {320} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 15:37:58 [main] {329} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 15:37:58 [main] {336} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 15:37:58 [main] {343} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:37:58 [main] {354} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 15:37:58 [main] {363} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 15:37:58 [main] {370} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 15:37:58 [main] {388} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYRemovePlanoLocacao||
+18-09-2018 15:37:58 [main] {377} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZAtualizaPlanoLocacao||
+18-09-2018 15:39:04 [main] {110} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 15:39:05 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 14016 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 15:39:05 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 15:39:22 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 18.003 seconds (JVM running for 20.927)
+18-09-2018 15:39:23 [main] {165} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 15:39:24 [main] {180} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 15:39:24 [main] {190} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 15:39:24 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 15:39:24 [main] {211} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 15:39:24 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 15:39:24 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 15:39:24 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 15:39:24 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 15:39:24 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 15:39:24 [main] {264} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 15:39:24 [main] {273} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 15:39:24 [main] {285} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 15:39:25 [main] {295} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 15:39:25 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 15:39:25 [main] {309} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 15:39:25 [main] {320} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 15:39:25 [main] {329} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 15:39:25 [main] {336} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 15:39:25 [main] {343} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:39:25 [main] {354} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 15:39:25 [main] {363} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 15:39:25 [main] {370} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 15:39:25 [main] {377} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYAtualizaPlanoLocacao||
+18-09-2018 15:39:25 [main] {388} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZRemovePlanoLocacao||
+18-09-2018 15:41:10 [main] {110} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 15:41:11 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2776 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 15:41:11 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 15:41:28 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 17.74 seconds (JVM running for 20.641)
+18-09-2018 15:41:28 [main] {165} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 15:41:29 [main] {180} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 15:41:29 [main] {190} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 15:41:30 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 15:41:30 [main] {211} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 15:41:30 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 15:41:30 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 15:41:30 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 15:41:30 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 15:41:30 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 15:41:30 [main] {264} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 15:41:30 [main] {273} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 15:41:30 [main] {285} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 15:41:30 [main] {295} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 15:41:30 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 15:41:30 [main] {309} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 15:41:30 [main] {320} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 15:41:30 [main] {329} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 15:41:30 [main] {336} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 15:41:30 [main] {343} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:41:30 [main] {354} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 15:41:30 [main] {363} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 15:41:31 [main] {370} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 15:41:31 [main] {377} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYAtualizaPlanoLocacao||
+18-09-2018 15:41:31 [main] {388} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZRemovePlanoLocacao||
+18-09-2018 15:53:17 [main] {110} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 15:53:18 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7304 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 15:53:18 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 15:53:33 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 16.14 seconds (JVM running for 18.741)
+18-09-2018 15:53:34 [main] {165} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 15:53:35 [main] {180} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 15:53:35 [main] {190} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 15:53:35 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 15:53:35 [main] {211} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 15:53:35 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 15:53:35 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 15:53:35 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 15:53:35 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 15:53:35 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 15:53:36 [main] {264} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 15:53:36 [main] {273} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 15:53:36 [main] {285} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 15:53:36 [main] {295} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 15:53:36 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 15:53:36 [main] {309} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 15:53:36 [main] {320} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 15:53:36 [main] {329} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 15:53:36 [main] {336} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 15:53:36 [main] {343} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:53:36 [main] {354} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 15:53:36 [main] {363} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 15:53:36 [main] {370} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 15:53:36 [main] {377} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYAtualizaPlanoLocacao||
+18-09-2018 15:53:36 [main] {388} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZRemovePlanoLocacao||
+18-09-2018 15:55:25 [main] {110} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 15:55:26 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 17716 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 15:55:26 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 15:55:43 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 17.197 seconds (JVM running for 19.572)
+18-09-2018 15:55:43 [main] {165} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 15:55:44 [main] {180} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 15:55:44 [main] {190} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 15:55:44 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 15:55:44 [main] {211} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 15:55:44 [main] {221} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 15:55:44 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 15:55:44 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 15:55:44 [main] {246} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 15:55:44 [main] {256} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 15:55:45 [main] {264} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 15:55:45 [main] {273} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 15:55:45 [main] {285} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 15:55:45 [main] {295} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 15:55:45 [main] {302} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 15:55:45 [main] {309} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 15:55:45 [main] {320} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 15:55:45 [main] {329} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 15:55:45 [main] {336} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 15:55:45 [main] {343} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 15:55:45 [main] {354} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 15:55:45 [main] {363} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 15:55:45 [main] {370} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 15:55:45 [main] {377} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYAtualizaPlanoLocacao||
+18-09-2018 15:55:45 [main] {388} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZRemovePlanoLocacao||
+18-09-2018 16:48:37 [main] {109} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+18-09-2018 16:48:38 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15824 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+18-09-2018 16:48:38 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+18-09-2018 16:48:51 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.968 seconds (JVM running for 15.907)
+18-09-2018 16:48:51 [main] {164} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||apagaDadosBD||
+18-09-2018 16:48:52 [main] {179} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+18-09-2018 16:48:52 [main] {189} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+18-09-2018 16:48:52 [main] {201} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+18-09-2018 16:48:52 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+18-09-2018 16:48:52 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+18-09-2018 16:48:52 [main] {227} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+18-09-2018 16:48:52 [main] {236} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+18-09-2018 16:48:52 [main] {245} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+18-09-2018 16:48:52 [main] {255} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+18-09-2018 16:48:53 [main] {263} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+18-09-2018 16:48:53 [main] {272} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+18-09-2018 16:48:53 [main] {284} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+18-09-2018 16:48:53 [main] {294} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testNIncluiClientePF||
+18-09-2018 16:48:53 [main] {301} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testOPesquisaClientePF||
+18-09-2018 16:48:53 [main] {308} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testPAtualizaClientePF||
+18-09-2018 16:48:53 [main] {319} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testQRemoveClientePF||
+18-09-2018 16:48:53 [main] {328} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testRIncluiClientePJ||
+18-09-2018 16:48:53 [main] {335} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testSPesquisaClientePJ||
+18-09-2018 16:48:53 [main] {342} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testTAtualizaClientePJ||
+18-09-2018 16:48:53 [main] {353} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testURemoveClientePJ||
+18-09-2018 16:48:53 [main] {362} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testVIncluiPlanoLocacao||
+18-09-2018 16:48:53 [main] {369} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testXPesquisaPlanoLocacao||
+18-09-2018 16:48:53 [main] {376} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testYAtualizaPlanoLocacao||
+18-09-2018 16:48:53 [main] {387} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testZRemovePlanoLocacao||

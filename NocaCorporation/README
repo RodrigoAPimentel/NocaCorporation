@@ -1,0 +1,3 @@
+- É necessario a instalação do banco Mysql;
+- Cria o SCHEMA no banco com o nome "nocacorp", usauraio "root" e senha "toor";
+

@@ -1,0 +1,1151 @@
+12-09-2018 11:45:54 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+12-09-2018 11:46:01 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:01 [main] {155} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {166} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {182} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {192} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {211} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {221} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {250} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {261} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:46:02 [main] {274} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+12-09-2018 11:46:02 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:46:02 [main] {127} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+12-09-2018 11:47:53 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+12-09-2018 11:47:54 [main] {127} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+12-09-2018 11:48:43 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+12-09-2018 11:48:50 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:50 [main] {155} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+12-09-2018 11:48:50 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:50 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:50 [main] {166} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+12-09-2018 11:48:50 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:50 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:50 [main] {182} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+12-09-2018 11:48:50 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:50 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:50 [main] {192} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+12-09-2018 11:48:50 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:50 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:50 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+12-09-2018 11:48:50 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {211} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {221} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {250} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {261} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+12-09-2018 11:48:51 [main] {274} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+12-09-2018 11:48:51 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+12-09-2018 11:48:51 [main] {127} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 10:51:45 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 10:51:53 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:53 [main] {155} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {166} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {182} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {192} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {211} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {221} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 10:51:54 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:54 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:54 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 10:51:55 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:55 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:55 [main] {250} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 10:51:55 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:55 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:55 [main] {261} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 10:51:55 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:55 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:51:55 [main] {274} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 10:51:55 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:51:55 [main] {127} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 10:52:18 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 10:52:25 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:25 [main] {155} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 10:52:25 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:25 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:25 [main] {166} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 10:52:25 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:25 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {182} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {192} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {211} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {221} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {250} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {261} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:52:26 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:52:26 [main] {274} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 10:52:26 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:21 [main] {64} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 10:53:28 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:28 [main] {155} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 10:53:28 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:28 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:28 [main] {166} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 10:53:28 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:28 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:28 [main] {182} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 10:53:28 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:28 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:28 [main] {192} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {211} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {221} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {250} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {261} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:53:29 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:53:29 [main] {274} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 10:53:29 [main] {150} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:23 [main] {79} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 10:56:32 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:32 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 10:56:32 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:32 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:32 [main] {158} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {174} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {184} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {195} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {213} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {223} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {234} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {253} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 10:56:33 [main] {266} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 10:56:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 10:56:33 [main] {131} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 11:02:53 [main] {79} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 11:03:03 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:03 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {158} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {174} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {184} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {195} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {203} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {213} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {223} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {234} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {242} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {253} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 11:03:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 11:03:04 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 11:03:04 [main] {266} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 11:03:05 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 14:05:20 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:06:02 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:06:57 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:15:50 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:43:41 [main] {81} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:44:59 [main] {81} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:44:59 [main] {129} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 14:46:48 [main] {81} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:46:48 [main] {135} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 14:46:48 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 14:46:48 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 14:46:48 [main] {129} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 14:48:00 [main] {81} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 14:48:00 [main] {135} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 14:48:00 [main] {145} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 14:48:00 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 14:48:00 [main] {129} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:02:01 [main] {79} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:02:33 [main] {79} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:02:33 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 15:02:33 [main] {158} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 15:02:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 15:02:33 [main] {131} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:39:09 [main] {79} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:39:09 [main] {143} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 15:39:09 [main] {153} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 15:39:09 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 15:39:09 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:45:46 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:45:46 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 15:45:46 [main] {154} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 15:45:46 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 15:45:46 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:46:35 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:46:35 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 15:46:35 [main] {154} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 15:46:35 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 15:46:35 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:48:37 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:48:37 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 15:48:37 [main] {154} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 15:48:37 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 15:48:37 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:48:56 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:48:56 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 15:50:13 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 15:50:13 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:03:10 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:03:10 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:09:49 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:09:49 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:11:01 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:11:01 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:11:40 [main] {80} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:11:40 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:11:40 [main] {154} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:11:40 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:11:40 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:15:17 [main] {82} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:15:17 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:15:17 [main] {156} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:15:17 [main] {151} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:15:17 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:18:28 [main] {82} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:18:28 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:18:28 [main] {156} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:18:28 [main] {151} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:18:28 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:18:47 [main] {82} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:18:47 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:18:47 [main] {156} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:18:47 [main] {151} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:18:47 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:19:34 [main] {82} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:19:34 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:19:34 [main] {156} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:19:34 [main] {151} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:19:34 [main] {140} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:55:38 [main] {85} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:55:38 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:56:32 [main] {85} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 16:56:33 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7260 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 16:56:33 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 16:56:44 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 12.294 seconds (JVM running for 14.535)
+13-09-2018 16:56:45 [main] {139} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:56:45 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 16:56:45 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:56:45 [main] {139} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 16:56:45 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 16:56:45 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 16:56:45 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 16:59:55 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 572 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 16:59:55 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:00:07 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 12.684 seconds (JVM running for 15.37)
+13-09-2018 17:00:07 [main] {85} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 17:00:07 [main] {149} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 17:00:07 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 17:00:07 [main] {85} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 17:00:07 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 17:00:07 [main] {144} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 17:00:07 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 17:07:11 [main] {87} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 17:07:12 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7396 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:07:12 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:07:20 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.621 seconds (JVM running for 11.391)
+13-09-2018 17:07:21 [main] {141} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 17:07:21 [main] {151} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 17:07:21 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 17:07:21 [main] {141} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 17:07:21 [main] {162} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 17:07:21 [main] {146} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 17:07:21 [main] {135} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 17:51:41 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 6500 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:51:41 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:51:49 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.764 seconds (JVM running for 10.797)
+13-09-2018 17:52:40 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9668 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:52:40 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:52:48 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.176 seconds (JVM running for 10.135)
+13-09-2018 17:52:59 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12712 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:52:59 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:53:07 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.667 seconds (JVM running for 10.967)
+13-09-2018 17:56:18 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9656 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:56:18 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:56:25 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.162 seconds (JVM running for 10.438)
+13-09-2018 17:58:16 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2448 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:58:16 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:58:24 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.778 seconds (JVM running for 10.798)
+13-09-2018 17:58:52 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12500 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:58:52 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:58:59 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.117 seconds (JVM running for 10.652)
+13-09-2018 17:59:17 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 13088 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:59:17 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:59:25 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.812 seconds (JVM running for 11.428)
+13-09-2018 17:59:41 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 5976 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 17:59:41 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 17:59:49 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.112 seconds (JVM running for 10.405)
+13-09-2018 18:02:10 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:02:10 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2756 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:02:10 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:02:18 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.504 seconds (JVM running for 10.531)
+13-09-2018 18:02:19 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:02:19 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:02:19 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:02:19 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:02:19 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:02:19 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:03:05 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:03:06 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12620 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:03:06 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:03:14 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.791 seconds (JVM running for 10.98)
+13-09-2018 18:03:15 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:03:15 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:03:15 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:03:15 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:03:15 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:03:15 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:04:28 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:04:29 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11964 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:04:29 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:04:38 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 9.765 seconds (JVM running for 11.829)
+13-09-2018 18:04:39 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:04:39 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:04:39 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:04:39 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:04:39 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:04:39 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:05:38 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:05:38 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11408 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:05:38 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:05:47 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 9.45 seconds (JVM running for 11.456)
+13-09-2018 18:05:48 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:05:48 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:05:48 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:05:48 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:05:48 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:05:48 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:09:01 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:09:02 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11436 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:09:02 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:09:10 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.648 seconds (JVM running for 10.578)
+13-09-2018 18:09:10 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:10 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:09:11 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:11 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:11 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:11 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:11 [main] {162} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:09:11 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:11 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:09:42 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:09:43 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 13064 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:09:43 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:09:51 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.825 seconds (JVM running for 11.421)
+13-09-2018 18:09:52 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:52 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:09:52 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:52 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:52 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:52 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:09:52 [main] {162} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:09:52 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:09:52 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:12:26 [main] {89} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:12:27 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11748 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:12:27 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:12:35 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 8.909 seconds (JVM running for 10.924)
+13-09-2018 18:12:36 [main] {143} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:12:36 [main] {153} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:12:36 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:12:36 [main] {143} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:12:36 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:12:36 [main] {137} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:12:49 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:12:50 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 3680 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:12:50 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:13:03 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.395 seconds (JVM running for 16.513)
+13-09-2018 18:13:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:13:04 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:13:04 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:13:04 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:13:04 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:13:04 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:13:26 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:13:27 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4252 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:13:27 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:13:40 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.309 seconds (JVM running for 16.634)
+13-09-2018 18:13:41 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:13:41 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:13:41 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:13:41 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:13:41 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:13:41 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:14:19 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:14:20 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12956 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:14:20 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:14:33 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.634 seconds (JVM running for 15.5)
+13-09-2018 18:14:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:14:33 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:14:33 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:14:33 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:14:33 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:14:33 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:15:25 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:15:26 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 10560 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:15:26 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:15:38 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 12.852 seconds (JVM running for 15.145)
+13-09-2018 18:15:38 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:15:38 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:15:39 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:15:39 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:15:39 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:15:39 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:15:39 [main] {162} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:15:39 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:15:39 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:15:53 [main] {88} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:15:54 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 5124 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:15:54 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:16:06 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.309 seconds (JVM running for 15.518)
+13-09-2018 18:16:07 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:16:07 [main] {152} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:16:07 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:16:07 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:16:07 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:16:07 [main] {142} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:16:07 [main] {162} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:16:07 [main] {147} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:16:07 [main] {136} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:20:17 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:20:18 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12152 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:20:18 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:20:30 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 12.791 seconds (JVM running for 15.051)
+13-09-2018 18:20:30 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:20:30 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:20:30 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:20:30 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:20:31 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:20:31 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:20:31 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:20:31 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:20:31 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:21:30 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:21:31 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 5864 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:21:31 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:21:43 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.171 seconds (JVM running for 15.509)
+13-09-2018 18:21:43 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:21:43 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:21:43 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:21:43 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:21:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:21:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:21:44 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:21:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:21:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:21:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:21:44 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:22:50 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:22:50 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7712 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:22:50 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:23:04 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.169 seconds (JVM running for 16.057)
+13-09-2018 18:23:04 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:23:04 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:23:04 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:23:04 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:23:05 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:23:05 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:23:05 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:23:05 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:23:05 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:23:05 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:23:05 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:23:05 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:23:05 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:23:05 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:24:37 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:24:37 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 2016 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:24:37 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:24:50 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.784 seconds (JVM running for 16.007)
+13-09-2018 18:24:51 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:51 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:51 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:51 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:24:51 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:51 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:51 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:24:52 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:52 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:52 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:24:52 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:52 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:52 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:24:52 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:52 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:52 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:24:52 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:52 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:24:52 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:24:52 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:25:09 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:25:10 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7812 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:25:10 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:25:23 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.882 seconds (JVM running for 16.306)
+13-09-2018 18:25:24 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:24 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:24 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:24 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:25:24 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:24 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:24 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:25:25 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:25 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:25 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:25:25 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:25 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:25 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:25:25 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:25 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:25:25 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:25:25 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:25:25 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:26:09 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:26:09 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4472 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:26:09 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:26:22 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 12.979 seconds (JVM running for 15.0)
+13-09-2018 18:26:22 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:22 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:22 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:22 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:26:22 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:22 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:22 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:26:23 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:23 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:23 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:26:23 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:23 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:23 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:26:23 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:23 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:26:23 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:26:23 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:26:23 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:31:28 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:31:29 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11776 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:31:29 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:31:43 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.743 seconds (JVM running for 16.735)
+13-09-2018 18:31:43 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:43 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:43 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:43 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:44 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:44 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:44 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:44 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:31:44 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:31:44 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:34:56 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:34:56 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 11400 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:34:56 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:35:10 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.767 seconds (JVM running for 15.759)
+13-09-2018 18:35:10 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:10 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:10 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:35:20 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:35:21 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 4580 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:35:21 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:35:34 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.539 seconds (JVM running for 15.432)
+13-09-2018 18:35:34 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:34 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:34 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:34 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:35 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:35 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:35 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:35 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:35:35 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:35:35 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:38:14 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:38:15 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7208 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:38:15 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:38:38 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 24.298 seconds (JVM running for 26.569)
+13-09-2018 18:38:39 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:39 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:39 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:39 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:38:40 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:40 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:40 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:38:40 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:40 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:40 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:38:40 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:40 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:40 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:38:40 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:40 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:40 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:38:41 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:41 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:41 [main] {186} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:38:41 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:41 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:41 [main] {195} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:38:41 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:41 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:38:41 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:38:41 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:41:57 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:41:57 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9524 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:41:57 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:42:18 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 21.164 seconds (JVM running for 23.622)
+13-09-2018 18:42:18 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:18 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:18 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:18 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {186} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {195} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:42:19 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:19 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:19 [main] {204} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:42:20 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:20 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:20 [main] {214} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:42:20 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:20 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:20 [main] {222} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:42:20 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:20 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:20 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:42:20 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:20 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:42:20 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:42:20 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:44:11 [main] {77} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:44:11 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 12204 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:44:11 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:44:27 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 16.222 seconds (JVM running for 18.34)
+13-09-2018 18:44:27 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:27 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:27 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:27 [main] {138} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:44:28 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:28 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:28 [main] {148} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:44:28 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:28 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:28 [main] {160} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:44:28 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:28 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:28 [main] {169} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:44:28 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:28 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:28 [main] {179} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {186} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {195} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {204} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {214} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {222} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {231} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {243} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {128} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:44:29 [main] {133} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:44:29 [main] {123} INFO  br.com.pimentel.test.IntegracaoTest - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:48:21 [main] {77} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:48:22 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 668 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:48:22 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:48:37 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.893 seconds (JVM running for 18.025)
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {138} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:48:38 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {148} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:48:38 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {160} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:48:38 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {169} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:48:38 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:38 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:38 [main] {179} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {186} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {195} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {204} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {214} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {222} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {231} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {243} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {128} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:48:39 [main] {133} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:48:39 [main] {123} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:49:38 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:49:39 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9712 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:49:39 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:49:53 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.819 seconds (JVM running for 16.913)
+13-09-2018 18:49:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:53 [main] {136} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:49:54 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:54 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:54 [main] {146} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:49:54 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:54 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:54 [main] {158} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:49:54 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:54 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:54 [main] {167} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:49:54 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:54 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:54 [main] {177} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {241} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:49:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:49:55 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:50:25 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:50:26 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 9860 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:50:26 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:50:41 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 15.333 seconds (JVM running for 17.444)
+13-09-2018 18:50:41 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:41 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:41 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:41 [main] {136} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:50:41 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:41 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:41 [main] {146} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {158} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {167} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {177} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:50:42 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:42 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:42 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:50:43 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:43 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:43 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:50:43 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:43 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:43 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:50:43 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:43 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:43 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:50:43 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:43 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:50:43 [main] {241} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 18:50:43 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:50:43 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 18:50:47 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 18:50:48 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7748 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 18:50:48 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 18:51:01 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.592 seconds (JVM running for 15.875)
+13-09-2018 18:51:01 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:01 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:01 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:01 [main] {136} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 18:51:02 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:02 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:02 [main] {146} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 18:51:02 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:02 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:02 [main] {158} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 18:51:02 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:02 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:02 [main] {167} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {177} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {184} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {193} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {202} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {212} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {229} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 18:51:03 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:03 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 18:51:03 [main] {241} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 18:51:04 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 18:51:04 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 19:33:04 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 19:33:05 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:05 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:12 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:12 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:16 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:16 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:20 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:20 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:23 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:23 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:26 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:26 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:30 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:30 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:33 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:33 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:36 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:36 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:33:39 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 1112 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:33:39 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:34:40 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 19:34:41 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 13128 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:34:41 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:34:54 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 14.297 seconds (JVM running for 16.811)
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {144} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 19:34:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {154} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 19:34:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {166} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 19:34:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {175} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 19:34:55 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:55 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:55 [main] {185} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {192} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {201} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {249} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:34:56 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:34:56 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 19:35:12 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 19:35:13 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 7872 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:35:13 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:35:26 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.457 seconds (JVM running for 15.397)
+13-09-2018 19:35:26 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:26 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:26 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:26 [main] {144} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {154} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {166} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {175} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {185} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {192} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {201} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 19:35:27 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:27 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:27 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 19:35:28 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:28 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:28 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 19:35:28 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:28 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:28 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 19:35:28 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:28 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:28 [main] {249} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 19:35:28 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:28 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:28 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:28 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||
+13-09-2018 19:35:38 [main] {75} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUpBeforeClass||
+13-09-2018 19:35:39 [main] {50} INFO  b.c.p.t.NocaCorporationApplicationTests - Starting NocaCorporationApplicationTests on DESKTOP-H1527R1 with PID 15616 (started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACE_GIT\NocaCorporation\NocaCorporation)
+13-09-2018 19:35:39 [main] {662} INFO  b.c.p.t.NocaCorporationApplicationTests - No active profile set, falling back to default profiles: default
+13-09-2018 19:35:51 [main] {59} INFO  b.c.p.t.NocaCorporationApplicationTests - Started NocaCorporationApplicationTests in 13.414 seconds (JVM running for 15.421)
+13-09-2018 19:35:52 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:52 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:52 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:52 [main] {144} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testAIncluirFuncionario||
+13-09-2018 19:35:52 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:52 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:52 [main] {154} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testBPesquisaFuncionario||
+13-09-2018 19:35:52 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:52 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:52 [main] {166} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testCRemoveFuncionario||
+13-09-2018 19:35:52 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:52 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:52 [main] {175} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testDAtualizaFuncionario||
+13-09-2018 19:35:52 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {185} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testEIncluirEmpresa||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {192} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testFPesquisaEmpresa||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {201} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testGRemoveEmpresa||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {210} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testHAtualizaEmpresa||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {220} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testIIncluiVeiculo||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {228} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testJPesquisaVeiculo||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {237} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testLRemoveVeiculo||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {249} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||testMAtualizaVeiculo||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {126} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||setUp||
+13-09-2018 19:35:53 [main] {131} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDown||
+13-09-2018 19:35:53 [main] {121} INFO  b.c.p.t.NocaCorporationApplicationTests - @@EXECUTANDO O METODO ||tearDownAfterClass||

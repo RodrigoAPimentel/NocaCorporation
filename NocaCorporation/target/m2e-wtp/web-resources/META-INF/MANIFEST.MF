@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pimen
+Build-Jdk: 10.0.2
+Implementation-Title: Noca Corporation
+Implementation-Version: 1.2.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.pimentel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/NocaCorporation
+Created-By: Maven Integration for Eclipse
+

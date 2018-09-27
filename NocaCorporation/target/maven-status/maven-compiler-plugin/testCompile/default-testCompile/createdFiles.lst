@@ -1,0 +1,17 @@
+br\com\pimentel\model\pessoas\pessoasFisicas\funcionarios\AssistenteAdministrativoTest.class
+br\com\pimentel\model\pessoas\pessoasFisicas\funcionarios\AgenteLocacaoTest.class
+br\com\pimentel\model\veiculos\tipos\CarroTest.class
+br\com\pimentel\model\enums\EstadoCivilTest.class
+br\com\pimentel\model\documentos\DocumentoPJTest.class
+br\com\pimentel\model\veiculos\tipos\MotocicletaTest.class
+br\com\pimentel\model\pessoas\pessoasFisicas\funcionarios\MecanicoTest.class
+br\com\pimentel\model\enums\GrauInstrucaoTest.class
+br\com\pimentel\IntegracaoTest.class
+br\com\pimentel\model\pessoas\pessoasFisicas\funcionarios\GerenteTest.class
+br\com\pimentel\model\enums\AcessoriosTest.class
+br\com\pimentel\model\documentos\DocumentoPFTest.class
+br\com\pimentel\model\pessoasJuridicas\empresas\LocadoraVeiculoTest.class
+br\com\pimentel\model\enums\CombustivelTest.class
+br\com\pimentel\model\enums\CargoTest.class
+br\com\pimentel\model\enums\SituacaoOperacionalVeiculoTest.class
+br\com\pimentel\model\enderecos\EnderecoImplTest.class

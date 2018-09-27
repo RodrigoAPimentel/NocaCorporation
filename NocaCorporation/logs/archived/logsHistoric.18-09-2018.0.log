@@ -1,0 +1,329 @@
+18-09-2018 11:10:56 [main] {33} INFO  br.com.pimentel.util.GeradorCodigo - Recebeu o CPF: 666.666.666-66 e a data: 2018-09-18
+18-09-2018 11:16:34 [main] {33} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE
+18-09-2018 11:16:34 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:16:34 [main] {37} INFO  br.com.pimentel.util.GeradorCodigo - Gerado o numero aleatorio: 535
+18-09-2018 11:16:34 [main] {40} INFO  br.com.pimentel.util.GeradorCodigo - Gerado o codigo de cliente: 56201865356
+18-09-2018 11:17:33 [main] {33} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE
+18-09-2018 11:17:33 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - 	Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:17:33 [main] {37} INFO  br.com.pimentel.util.GeradorCodigo - 	Gerado o numero aleatorio: 151
+18-09-2018 11:17:33 [main] {40} INFO  br.com.pimentel.util.GeradorCodigo - 	Gerado o codigo de cliente: 56201861516
+18-09-2018 11:18:42 [main] {33} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE
+18-09-2018 11:18:42 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:18:42 [main] {37} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 888
+18-09-2018 11:18:42 [main] {40} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201868886
+18-09-2018 11:21:31 [main] {51} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:21:31 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 11:21:31 [main] {55} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 792
+18-09-2018 11:21:31 [main] {58} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201807920
+18-09-2018 11:21:31 [main] {51} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:21:31 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 11:21:31 [main] {55} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 387
+18-09-2018 11:21:31 [main] {58} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201813871
+18-09-2018 11:21:31 [main] {51} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:21:31 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 11:21:31 [main] {55} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 142
+18-09-2018 11:21:31 [main] {58} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201821422
+18-09-2018 11:21:31 [main] {51} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:21:31 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 11:21:31 [main] {55} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 277
+18-09-2018 11:21:31 [main] {58} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201832773
+18-09-2018 11:21:31 [main] {33} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE
+18-09-2018 11:21:31 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:21:31 [main] {37} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 826
+18-09-2018 11:21:31 [main] {40} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201868266
+18-09-2018 11:44:19 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 11:44:19 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 11.111.111/1111-11 e data: 2018-09-18||
+18-09-2018 11:44:19 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 844
+18-09-2018 11:44:19 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 61201818441
+18-09-2018 11:44:46 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 11:44:46 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 11.111.111/1111-11 e data: 2018-09-18||
+18-09-2018 11:44:46 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 218
+18-09-2018 11:44:46 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 61201812181
+18-09-2018 11:51:35 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:51:35 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 11:51:35 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 630
+18-09-2018 11:51:35 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201806300
+18-09-2018 11:51:36 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:51:36 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 11:51:36 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 559
+18-09-2018 11:51:36 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201815591
+18-09-2018 11:51:36 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:51:36 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 11:51:36 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 754
+18-09-2018 11:51:36 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201827542
+18-09-2018 11:51:36 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:51:36 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 11:51:36 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 530
+18-09-2018 11:51:36 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201835303
+18-09-2018 11:51:36 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 11:51:36 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:51:36 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 216
+18-09-2018 11:51:36 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201862166
+18-09-2018 11:51:36 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 11:51:36 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 11:51:36 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 979
+18-09-2018 11:51:36 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201829792
+18-09-2018 11:53:21 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:53:21 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 418
+18-09-2018 11:53:21 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201804180
+18-09-2018 11:53:21 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:53:21 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 793
+18-09-2018 11:53:21 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201817931
+18-09-2018 11:53:21 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:53:21 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 127
+18-09-2018 11:53:21 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201821272
+18-09-2018 11:53:21 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:53:21 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 132
+18-09-2018 11:53:21 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201831323
+18-09-2018 11:53:21 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 11:53:21 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 914
+18-09-2018 11:53:21 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201869146
+18-09-2018 11:53:21 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 11:53:21 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 11:53:21 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 184
+18-09-2018 11:53:21 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201821842
+18-09-2018 11:54:46 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:54:46 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 155
+18-09-2018 11:54:46 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201801550
+18-09-2018 11:54:46 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:54:46 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 320
+18-09-2018 11:54:46 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201813201
+18-09-2018 11:54:46 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:54:46 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 840
+18-09-2018 11:54:46 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201828402
+18-09-2018 11:54:46 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 11:54:46 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 986
+18-09-2018 11:54:46 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201839863
+18-09-2018 11:54:46 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 11:54:46 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 657
+18-09-2018 11:54:46 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201866576
+18-09-2018 11:54:46 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 11:54:46 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 11:54:46 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 588
+18-09-2018 11:54:46 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201825882
+18-09-2018 12:02:32 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:02:32 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 946
+18-09-2018 12:02:32 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201809460
+18-09-2018 12:02:32 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:02:32 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 566
+18-09-2018 12:02:32 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201815661
+18-09-2018 12:02:32 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:02:32 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 580
+18-09-2018 12:02:32 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201825802
+18-09-2018 12:02:32 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:02:32 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 313
+18-09-2018 12:02:32 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201833133
+18-09-2018 12:02:32 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 12:02:32 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 760
+18-09-2018 12:02:32 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201867606
+18-09-2018 12:02:32 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 12:02:32 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 12:02:32 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 695
+18-09-2018 12:02:32 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201826952
+18-09-2018 12:08:35 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:08:35 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 660
+18-09-2018 12:08:35 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201806600
+18-09-2018 12:08:35 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:08:35 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 549
+18-09-2018 12:08:35 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201815491
+18-09-2018 12:08:35 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:08:35 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 545
+18-09-2018 12:08:35 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201825452
+18-09-2018 12:08:35 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 12:08:35 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 894
+18-09-2018 12:08:35 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201838943
+18-09-2018 12:08:35 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 12:08:35 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 828
+18-09-2018 12:08:35 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201868286
+18-09-2018 12:08:35 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 12:08:35 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 12:08:35 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 190
+18-09-2018 12:08:35 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201821902
+18-09-2018 13:31:03 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 13:31:03 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 751
+18-09-2018 13:31:03 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201807510
+18-09-2018 13:31:03 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 13:31:03 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 657
+18-09-2018 13:31:03 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201816571
+18-09-2018 13:31:03 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 13:31:03 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 929
+18-09-2018 13:31:03 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201829292
+18-09-2018 13:31:03 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 13:31:03 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 468
+18-09-2018 13:31:03 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201834683
+18-09-2018 13:31:03 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 13:31:03 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 445
+18-09-2018 13:31:03 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201864456
+18-09-2018 13:31:03 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 13:31:03 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 13:31:03 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 711
+18-09-2018 13:31:03 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201827112
+18-09-2018 15:37:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:37:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 343
+18-09-2018 15:37:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201803430
+18-09-2018 15:37:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:37:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 186
+18-09-2018 15:37:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201811861
+18-09-2018 15:37:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:37:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 371
+18-09-2018 15:37:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201823712
+18-09-2018 15:37:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:37:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 686
+18-09-2018 15:37:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201836863
+18-09-2018 15:37:37 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 15:37:37 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 371
+18-09-2018 15:37:37 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201863716
+18-09-2018 15:37:37 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 15:37:37 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 15:37:37 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 296
+18-09-2018 15:37:37 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201822962
+18-09-2018 15:39:04 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:39:04 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 801
+18-09-2018 15:39:04 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201808010
+18-09-2018 15:39:04 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:39:04 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 991
+18-09-2018 15:39:04 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201819911
+18-09-2018 15:39:04 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:39:04 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 123
+18-09-2018 15:39:04 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201821232
+18-09-2018 15:39:04 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:39:04 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 633
+18-09-2018 15:39:04 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201836333
+18-09-2018 15:39:04 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 15:39:04 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 584
+18-09-2018 15:39:04 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201865846
+18-09-2018 15:39:04 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 15:39:04 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 15:39:04 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 364
+18-09-2018 15:39:04 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201823642
+18-09-2018 15:41:10 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:41:10 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 908
+18-09-2018 15:41:10 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201809080
+18-09-2018 15:41:10 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:41:10 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 901
+18-09-2018 15:41:10 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201819011
+18-09-2018 15:41:10 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:41:10 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 434
+18-09-2018 15:41:10 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201824342
+18-09-2018 15:41:10 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:41:10 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 874
+18-09-2018 15:41:10 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201838743
+18-09-2018 15:41:10 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 15:41:10 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 783
+18-09-2018 15:41:10 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201867836
+18-09-2018 15:41:10 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 15:41:10 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 15:41:10 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 830
+18-09-2018 15:41:10 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201828302
+18-09-2018 15:53:17 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:53:17 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 558
+18-09-2018 15:53:17 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201805580
+18-09-2018 15:53:17 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:53:17 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 650
+18-09-2018 15:53:17 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201816501
+18-09-2018 15:53:17 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:53:17 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 422
+18-09-2018 15:53:17 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201824222
+18-09-2018 15:53:17 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:53:17 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 168
+18-09-2018 15:53:17 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201831683
+18-09-2018 15:53:17 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 15:53:17 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 791
+18-09-2018 15:53:17 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201867916
+18-09-2018 15:53:17 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 15:53:17 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 15:53:17 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 663
+18-09-2018 15:53:17 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201826632
+18-09-2018 15:55:25 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:55:25 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 870
+18-09-2018 15:55:25 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201808700
+18-09-2018 15:55:25 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:55:25 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 967
+18-09-2018 15:55:25 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201819671
+18-09-2018 15:55:25 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:55:25 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 141
+18-09-2018 15:55:25 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201821412
+18-09-2018 15:55:25 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 15:55:25 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 112
+18-09-2018 15:55:25 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201831123
+18-09-2018 15:55:25 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 15:55:25 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 274
+18-09-2018 15:55:25 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201862746
+18-09-2018 15:55:25 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 15:55:25 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 15:55:25 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 726
+18-09-2018 15:55:25 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201827262
+18-09-2018 16:48:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 16:48:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 000.000.000-00 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 139
+18-09-2018 16:48:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 10201801390
+18-09-2018 16:48:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 16:48:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 111.111.111-11 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 462
+18-09-2018 16:48:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 11201814621
+18-09-2018 16:48:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 16:48:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 222.222.222-22 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 403
+18-09-2018 16:48:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 12201824032
+18-09-2018 16:48:37 [main] {70} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO MATRICULA DE FUNCIONARIO
+18-09-2018 16:48:37 [main] {71} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando matricula de funcionario com ||CPF: 333.333.333-33 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {74} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 694
+18-09-2018 16:48:37 [main] {77} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado a matricula de funcionario: 13201836943
+18-09-2018 16:48:37 [main] {34} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA FISICA
+18-09-2018 16:48:37 [main] {35} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CPF: 666.666.666-66 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {38} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 492
+18-09-2018 16:48:37 [main] {41} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 56201864926
+18-09-2018 16:48:37 [main] {52} INFO  br.com.pimentel.util.GeradorCodigo - GERANDO CODIGO DE CLIENTE PESSOA JURIDICA
+18-09-2018 16:48:37 [main] {53} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerando codigo de cliente com ||CNPJ: 22.222.222/2222-22 e data: 2018-09-18||
+18-09-2018 16:48:37 [main] {56} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o numero aleatorio: 301
+18-09-2018 16:48:37 [main] {59} INFO  br.com.pimentel.util.GeradorCodigo - ====== Gerado o codigo de cliente: 62201823012
