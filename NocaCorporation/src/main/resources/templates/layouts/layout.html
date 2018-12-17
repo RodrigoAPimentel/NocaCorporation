@@ -3,105 +3,36 @@
 	  xmlns:th="http://www.thymeleaf.org"	
 	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
 	  th:lang=${#locale.language}>
-	
-	<head th:fragment="layoutHead">
-		<meta charset="utf-8"> <!-- Para usar caracteres Unicode (acentos e cedilha) -->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- força o IE a usar as definições de CSS mais recentes, e evita que ele quebre o visual quando estiver no Modo de Compatibilidade. -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Design Responsivo. Faz o site ocupar todo o espaço disponível na janela, tanto em celulares, como em tablets ou em PC’s. -->
+
+	<head>	
+		<!-- Para usar caracteres Unicode (acentos e cedilha) -->	
+		<meta charset="utf-8"> 
+		<!-- força o IE a usar as definições de CSS mais recentes, e evita que ele quebre o visual quando estiver no Modo de Compatibilidade. -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!-- Design Responsivo. Faz o site ocupar todo o espaço disponível na janela, tanto em celulares, como em tablets ou em PC’s. -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<meta name="author" content="Rodrigo Pimentel"/>
 	
 		<!-- Titulo da aba do navegador -->
-		<title>Noca Car Rental</title>
-		
-		<!-- core CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-	    <link href="css/font-awesome.min.css" rel="stylesheet">
-	    <link href="css/animate.min.css" rel="stylesheet">
-	    <link href="css/owl.carousel.css" rel="stylesheet">
-	    <link href="css/owl.transitions.css" rel="stylesheet">
-	    <link href="css/prettyPhoto.css" rel="stylesheet">  
-		<link href="css/magnific-popup.css" rel="stylesheet">  
-		<link href="css/gallery-1.css" rel="stylesheet">
-	    <link href="css/styles.css" rel="stylesheet"> 
-	
-		<!-- Icone da aba do navegador -->
-		<link rel="shortcut icon" href="images/ico/icon.png">
+		<title layout:title-pattern="$LAYOUT_TITLE - $CONTENT_TITLE" th:text="#{nomeAplicativo} + ' ' + #{nomeAplicativoComplemento}"></title> 
+				
+		<th:block th:include="fragments/layout/styles :: styles"></th:block>
+			
+		<!-- Icone da aba do navegador -->			
+		<link rel="shortcut icon" th:href="@{images/icon/icon.png}"> 	
 	</head>
 	
 	<body id="home">
-
-	    <header id="header" th:fragment="layoutHeader">	        
-	        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">	           
-	            <div class="container">
-	                
-	                <div class="navbar-header">
-	                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-	                        <span class="sr-only">Toggle navigation</span>
-	                        <span class="icon-bar"></span>	
-	                        <span class="icon-bar"></span>
-	                        <span class="icon-bar"></span>
-	                    </button>
-						<i class="fa fa-car" aria-hidden="true"></i>
-	                    <div class="logoSection"> <a class="navbar-brand" href="/">Noca</a>
-						<span class="caption">Car Rental</span>
-						</div>
-	                </div>
-					
-	                <div class="collapse navbar-collapse navbar-right">
-	                    <ul class="nav navbar-nav">
-	                        <li class="scroll active"><a href="#home">Home</a></li> 
-	                        <li class="scroll"><a href="#services">Serviços</a></li>
-	                        <li class="scroll"><a href="#about">Sobre</a></li>
-	                        <li class="scroll"><a href="#portfolio">Frota</a></li>
-	                        <li class="scroll"><a href="#our-team">Equipe</a></li>
-	                        <li class="scroll"><a href="#pricing">Planos</a></li>
-	                        <li class="scroll"><a href="#contact">Contato</a></li>                   
-	                    </ul>
-	                </div>
-	                
-	            </div>	            
-	        </nav>	        
-	    </header>	    
+			
+		<section th:replace="fragments/layout/header :: header"></section>		
+			    
+		<main>	    
+	    	<section layout:fragment="content">Conteudo da pagina</section> 
+	    </main>
 	    
-	    <footer id="footer" th:fragment="layoutFooter">
-	        <div class="container">
-	            <div class="row">
-	               
-	                <div class="col-sm-6">
-	                    &copy; 2018 Rodrigo Pimentel. 
-	                </div>
-	                
-	                <div class="col-sm-6">
-	                    <ul class="social-icons">
-	                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-	                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-	                        <li><a href="#"><i class="fa fa-github"></i></a></li>
-	                    </ul>
-	                </div>
-	                
-	            </div>
-	        </div>
-	        
-	        <script src="js/jquery.js"></script>
-		    <script src="js/bootstrap.min.js"></script>
-		    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-		    <script src="js/owl.carousel.min.js"></script>
-		    <script src="js/mousescroll.js"></script>
-		    <script src="js/smoothscroll.js"></script>
-		    <script src="js/jquery.prettyPhoto.js"></script> 
-		    <script src="js/jquery.inview.min.js"></script>
-		    <script src="js/wow.min.js"></script>
-		    <script src="contact/jqBootstrapValidation.js"></script>
-		    <script src="contact/contact_me.js"></script>
-		 
-		    <script type="text/javascript" src="js/jquery.isotope.min.js"></script><!-- Gallery Filter -->
-			<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script><!-- Gallery Popup -->
-			 
-		    <script src="js/custom-scripts.js"></script>	        
-	        
-        </footer>
-	
+	    <section th:replace="fragments/layout/footer :: footer"></section>
+	    
+	    <th:block th:include="fragments/layout/scripts :: scripts"></th:block>
+		
 	</body>
 </html>

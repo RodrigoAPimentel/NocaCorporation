@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org" th:lang=${#locale.language}>
+
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+
+	<div class="container-fluid">
+
+		<div class="row">
+
+			<div class="col-md-12">
+
+				<div class="card card-nav-tabs">
+					<div class="card-header card-header-warning">
+						<div class="nav-tabs-navigation">
+							<div class="nav-tabs-wrapper">
+								<ul class="nav nav-tabs" data-tabs="tabs">
+									<li class="nav-item">
+										<a class="nav-link active" href="#cadastrar" data-toggle="tab"> 
+											<i class="material-icons">person_add</i>
+											Cadastrar
+										</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="#alterar" data-toggle="tab"> 
+										<i class="material-icons">create</i>
+											Alterar
+										</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link  " href="#pesquisar" data-toggle="tab"> 
+										<i class="material-icons">search</i> 
+										Pesquisar
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card-body col-md-10 offset-1">
+						<div class="tab-content text-center">
+
+							<div class="tab-pane active" id="cadastrar">
+
+								<div class="card">
+									<div class="card card-nav-tabs card-plain">
+													<div class="card-header card-header-danger">
+														<div class="nav-tabs-navigation">
+															<div class="nav-tabs-wrapper">
+																<ul class="nav nav-tabs" data-tabs="tabs">
+																	<li class="nav-item">
+																		<a class="nav-link active" href="#dadosPessoaisCliente" data-toggle="tab"> Dados Pessoais </a>
+																	</li>
+																	<li class="nav-item">
+																		<a class="nav-link" href="#documentosCliente" data-toggle="tab"> Documentos </a>
+																	</li>
+																	<li class="nav-item">
+																		<a class="nav-link" href="#enderecoCliente" data-toggle="tab"> Endereço </a>
+																	</li>
+																	<li class="nav-item">
+																		<a class="nav-link" href="#infoCliente" data-toggle="tab"> Informações de Locação </a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+
+													<div class="card-body ">
+
+														<form th:object="${clientePF}" th:action="@{clientePF/add}" th:method="post">
+
+															<div class="tab-content text-center">
+																<div class="tab-pane active" id="dadosPessoaisCliente">
+																	<div class="row">
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label for="txtCpf" class="bmd-label-floating"> CPF </label> 
+																				<input type="text" class="form-control txtCpf" th:field="*{cpf}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating" style="margin-bottom: 0px"> Sexo </label> 
+																				<select class="form-control" id="formControlSelectSexo" th:field="*{sexo}">
+																					<option selected="selected" th:value="null">-</option>
+																					<option th:value="true">MASCULINO</option>
+																					<option th:value="false">FEMININO</option>
+																				</select>
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Data de Nascimento </label> 
+																				<input type="date" class="form-control" th:value="*{dataNascimento}" th:field="*{dataNascimento}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Naturalidade </label>
+																				<input type="text" class="form-control" th:field="*{naturalidade}">
+																			</div>
+																		</div>
+																		<div class="col-md-8 offset-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Nome </label> 
+																				<input type="text" class="form-control" th:field="*{nome}">
+																			</div>
+																		</div>
+																		<div class="col-md-4">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Nacionalidade </label>
+																				<input type="text" class="form-control" th:field="*{nacionalidade}">
+																			</div>
+																		</div>
+
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating" style="margin-bottom: 0px"> Estado Civil </label> 
+																				<select class="form-control" id="formControlSelectEstadoCivil" th:field="*{estadoCivil}">
+																					<option selected="selected" th:value="${estadoCivil}">-</option>
+																					
+																					<option th:each="estadoCivil : ${estadosCivil}" 
+																							th:value="${estadoCivil}" 
+																							th:text="${estadoCivil.descricaoEstadoCivil}">
+																					</option>
+																				</select>
+																			</div>
+																		</div>
+																		<div class="col-md-5">
+																			<div class="form-group">
+																				<label class="bmd-label-floating" style="margin-bottom: 0px"> Grau de Instrução </label> 
+																				<select class="form-control" id="formControlSelectGrauInstrucao" th:field="*{grauDeInstrucao}">
+																					<option selected="selected" th:value="${grauInstrucao}">-</option>
+																					
+																					<option th:each="grauInstrucao : ${grausInstrucao}"
+																							th:value="${grauInstrucao}"
+																							th:text="${grauInstrucao.descricaoDrauInstrucao}">
+																					</option>
+																				</select>
+																			</div>
+																		</div>
+																		<div class="col-md-6">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Pai </label> 
+																				<input type="text" class="form-control" th:field="*{filiacaoPai}">
+																			</div>
+																		</div>
+																		<div class="col-md-6">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Mãe </label> 
+																				<input type="text" class="form-control" th:field="*{filiacaoMae}">
+																			</div>
+																		</div>
+																	</div>
+																</div><!-- FIM DA DIV DADOS PESSOAIS -->
+
+																<div class="tab-pane" id="documentosCliente">
+																	<div class="row">
+																		<div class="col-md-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Identidade </label>
+																				<input type="text" class="form-control" th:field="*{documento.identidade}">
+																			</div>
+																		</div>
+																		
+																		<div class="col-md-1" style="margin: 0px; padding: 0px; padding-top: 30px">
+																			<div class="form-check form-check-radio">
+																				<label class="form-check-label"> 
+																					<input class="form-check-input" type="radio" name="RadiosIdentidadeVia" id="Radios1Via" value="true" checked="checked" th:field="*{documento.identidade2Via}"> 1ª Via 
+																					<span class="circle"> 
+																						<span class="check"></span>
+																					</span>
+																				</label>
+																			</div>
+																			<div class="form-check form-check-radio">
+																				<label class="form-check-label"> 
+																					<input class="form-check-input" type="radio" name="RadiosIdentidadeVia" id="Radios2Via" value="false" th:field="*{documento.identidade2Via}"> 2ª Via 
+																					<span class="circle"> 
+																						<span class="check"></span>
+																					</span>
+																				</label>
+																			</div>
+																		</div>
+																		
+																		<div class="col-md-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Orgão Emissor </label> 
+																				<input type="text" class="form-control" th:field="*{documento.identidadeOrgaoEmissor}">
+																			</div>
+																		</div>
+																		<div class="col-md-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Titulo de Eleitor </label> 
+																				<input type="text" class="form-control" th:field="*{documento.tituloEleitor}">
+																			</div>
+																		</div>
+																		<div class="col-md-1">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Zona </label> 
+																				<input type="text" class="form-control" th:field="*{documento.tituloEleitorZona}">
+																			</div>
+																		</div>
+																		<div class="col-md-1">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Seção </label> 
+																				<input type="text" class="form-control" th:field="*{documento.tituloEleitorSecao}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Localidade </label>
+																				<input type="text" class="form-control" th:field="*{documento.tituloEleitorLocalidade}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating">Certificado Reservista</label> 
+																				<input type="text" class="form-control" th:field="*{documento.certificadoReservista}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> PIS </label> 
+																				<input type="text" class="form-control" th:field="*{documento.pis}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Carteira de Trabalho </label> 
+																				<input type="text" class="form-control" th:field="*{documento.carteiraTrabalho}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Habilitação </label>
+																				<input type="text" class="form-control" th:field="*{documento.habilitacao}">
+																			</div>
+																		</div>
+																		<div class="col-md-10 offset-1">
+																			<div class="form-group">
+																				<label class="bmd-label-floating" style="margin-bottom: 0px"> Habilitação - Categoria</label> 
+																				<select class="form-control" id="formControlSelectHabilitacao" th:field="*{documento.habilitacaoCategoria}">
+																					<option selected="selected" th:value="${categoriaHabilitacao}">-</option>
+																					<option
+																						th:each="categoriaHabilitacao : ${categoriasHabilitacao}"
+																						th:value="${categoriaHabilitacao}"
+																						th:text="|${categoriaHabilitacao} - ${categoriaHabilitacao.descricaoCategoria}|">
+																					</option>
+																				</select>
+																			</div>
+																		</div>
+																		<div class="col-md-12">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Observações de Documentos </label>
+																				<textarea class="form-control" rows="2" th:field="*{documento.observacaoDocumento}"></textarea>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="tab-pane" id="enderecoCliente">
+																	<div class="row">
+																		<div class="col-md-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> CEP </label> 
+																				<input type="text" class="form-control txtCep" th:field="*{endereco.cep}">
+																			</div>
+																		</div>
+																		<div class="col-md-5">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Rua </label> 
+																				<input type="text" class="form-control" th:field="*{endereco.rua}">
+																			</div>
+																		</div>
+																		<div class="col-md-2">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Numero </label> 
+																				<input type="number" class="form-control" th:field="*{endereco.numero}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Bairro </label> 
+																				<input type="text" class="form-control" th:field="*{endereco.bairro}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Cidade </label> 
+																				<input type="text" class="form-control" th:field="*{endereco.cidade}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Estado </label> .
+																				<input type="text" class="form-control" th:field="*{endereco.estado}">
+																			</div>
+																		</div>
+																		<div class="col-md-6">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Complemento </label>
+																				<input type="text" class="form-control" th:field="*{endereco.complemento}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Pais </label> 
+																				<input type="text" class="form-control" th:field="*{endereco.pais}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Telefone Residencial </label> 
+																				<input type="tel" class="form-control tel" th:field="*{endereco.telefone1}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Telefone Celular </label> 
+																				<input type="tel" class="form-control tel" th:field="*{endereco.telefone2}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Telefone 2 </label>
+																				<input type="tel" class="form-control tel" th:field="*{endereco.telefone3}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Email </label> 
+																				<input type="email" class="form-control" th:field="*{endereco.email1}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Email Secundario </label> 
+																				<input type="email" class="form-control" th:field="*{endereco.email2}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Caixa Postal </label> 
+																				<input type="text" class="form-control" th:field="*{endereco.caixaPostal}">
+																			</div>
+																		</div>
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Endereço Web </label> 
+																				<input type="url" class="form-control" th:field="*{endereco.enderecoWeb}">
+																			</div>
+																		</div>
+																		<div class="col-md-12">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Observações de endereço </label>
+																				<textarea class="form-control" rows="2" th:field="*{endereco.observacaoEndereco}"></textarea>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="tab-pane offset-2" id="infoCliente">
+																	<div class="row">																																		
+																		<div class="col-md-4">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Quant. de Locações Simultaneas </label> 
+																				<input type="text" class="form-control" th:field="*{quantidadePermitidaLocacao}">
+																			</div>
+																		</div>
+																		<div class="col-md-4">
+																			<div class="form-group">
+																				<label class="bmd-label-floating"> Valor Devido </label> 
+																				<input type="text" class="form-control" th:field="*{debito}">
+																			</div>
+																		</div>
+																	</div><!-- DIV ROW -->
+																	<div class="row">
+																		<div class="col-md-4 offset-8">
+																			<button type="submit" class="btn btn-primary pull-right "> Cadastrar </button>
+																		</div>
+																	</div>
+																</div>
+																<!-- DIV INFO -->
+															</div>
+														</form>
+													</div>
+												</div>
+								</div><!-- FIM DA DIV CARD -->
+
+							</div><!-- FIM DA DIV CADASTRAR -->
+
+							<div class="tab-pane" id="alterar">
+								<div class="card">
+									<p>ALTERAR</p>
+								</div>
+							</div>
+							<div class="tab-pane " id="pesquisar">
+								<div class="card">
+									<p>PESQUISAR</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<script type="text/javascript">
+		$(function() {
+			$(".txtCpf").mask("999.999.999-99");
+			$(".txtCep").mask("99999-999");
+			$(".tel").mask("(99) 9 9999-9999");			
+		});
+	</script>
+
+</body>
+</html>

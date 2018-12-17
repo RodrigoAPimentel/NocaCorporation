@@ -17,6 +17,12 @@ public interface Cliente {
 	public String getCodigo();
 	
 	/**
+	 * Altera o Codigo de identificação do cliente
+	 * @param codigo Codigo de identificação do cliente
+	 */
+	public void setCodigo(String codigo);
+	
+	/**
 	 * Retorna a quantidade maxima de veiculo que podem ser locados ao mesmo tempo
 	 * @return Quantidade de veiculos permitido
 	 */

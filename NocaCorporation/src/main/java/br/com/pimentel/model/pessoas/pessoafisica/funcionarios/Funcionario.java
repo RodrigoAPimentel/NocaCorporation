@@ -15,7 +15,12 @@ public interface Funcionario {
 	/**
 	 * @return Retorna a matricula do funcionario
 	 */
-	public String getMatricula();
+	public String getMatricula();	
+	
+	/**
+	 * @param matricula altera a matricula do funcionario
+	 */
+	public void setMatricula(String matricula);
 
 	/**
 	 * @return Retorna o cargo do funcionario
@@ -40,6 +45,6 @@ public interface Funcionario {
 	/**
 	 * @param dataAdmisao Altera a data de admissão do funcionario
 	 */
-	public void setDataAdmisao(LocalDate dataAdmisao);
+	public void setDataAdmissao(LocalDate dataAdmissao);
 
 }

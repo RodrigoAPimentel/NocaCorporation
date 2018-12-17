@@ -76,6 +76,14 @@ public class AssistenteAdministrativo extends PessoaFisica implements Funcionari
 	public String getMatricula() {
 		return matricula;
 	}
+	
+	/* (non-Javadoc)
+	 * @see br.com.pimentel.model.pessoas.pessoafisica.funcionarios.Funcionario#setMatricula(java.lang.String)
+	 */
+	@Override
+	public void setMatricula(String matricula) {
+		this.matricula = matricula;		
+	}
 
 	/* (non-Javadoc)
 	 * @see br.com.pimentel.test.model.funcionarios.Funcionario#getCargo()
@@ -83,6 +91,13 @@ public class AssistenteAdministrativo extends PessoaFisica implements Funcionari
 	@Override
 	public Cargo getCargo() {
 		return cargo;
+	}
+	
+	/**
+	 * @param cargo Cargo do Funcionario
+	 */
+	public void setCargo(Cargo cargo) {
+		this.cargo = cargo;
 	}
 
 	/* (non-Javadoc)
@@ -113,8 +128,8 @@ public class AssistenteAdministrativo extends PessoaFisica implements Funcionari
 	 * @see br.com.pimentel.test.model.funcionarios.Funcionario#setDataAdmisao(java.util.Date)
 	 */
 	@Override
-	public void setDataAdmisao(LocalDate dataAdmisao) {
-		this.dataAdmissao = dataAdmisao;
+	public void setDataAdmissao(LocalDate dataAdmissao) {
+		this.dataAdmissao = dataAdmissao;
 	}
 
 	/* (non-Javadoc)

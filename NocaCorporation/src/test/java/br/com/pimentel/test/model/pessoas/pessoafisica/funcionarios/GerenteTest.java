@@ -146,7 +146,7 @@ public class GerenteTest {
 	@Test
 	public void testGetSetDataAdmissao() throws ParseException {
 		assertEquals("25/05/2012", gerente.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
-		gerente.setDataAdmisao(LocalDate.of(2016, 4, 1));
+		gerente.setDataAdmissao(LocalDate.of(2016, 4, 1));
 		assertEquals("01/04/2016", gerente.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
 	}
 

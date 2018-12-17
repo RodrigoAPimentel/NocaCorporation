@@ -66,7 +66,7 @@ public class AgenteLocacaoTest {
 	@Test
 	public void testGetSetDataAdmissao() throws ParseException {
 		assertEquals("16/08/1986", locador.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
-		locador.setDataAdmisao(LocalDate.of(2016, 4, 1));
+		locador.setDataAdmissao(LocalDate.of(2016, 4, 1));
 		assertEquals("01/04/2016", locador.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
 	}
 

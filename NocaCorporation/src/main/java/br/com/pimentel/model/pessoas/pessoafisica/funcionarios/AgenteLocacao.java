@@ -79,6 +79,14 @@ public class AgenteLocacao extends PessoaFisica implements Funcionario, Serializ
 	public String getMatricula() {
 		return matricula;
 	}
+	
+	/* (non-Javadoc)
+	 * @see br.com.pimentel.model.pessoas.pessoafisica.funcionarios.Funcionario#setMatricula(java.lang.String)
+	 */
+	@Override
+	public void setMatricula(String matricula) {
+		this.matricula = matricula;		
+	}
 
 	/* (non-Javadoc)
 	 * @see br.com.pimentel.test.model.Funcionario#getCargo()
@@ -88,6 +96,13 @@ public class AgenteLocacao extends PessoaFisica implements Funcionario, Serializ
 		return cargo;
 	}
 	
+	/**
+	 * @param cargo Cargo do Funcionario
+	 */
+	public void setCargo(Cargo cargo) {
+		this.cargo = cargo;
+	}
+	 
 	/* (non-Javadoc)
 	 * @see br.com.pimentel.test.model.Funcionario#getSalario()
 	 */
@@ -116,8 +131,8 @@ public class AgenteLocacao extends PessoaFisica implements Funcionario, Serializ
 	 * @see br.com.pimentel.test.model.Funcionario#setDataAdmisao(java.util.Date)
 	 */
 	@Override
-	public void setDataAdmisao(LocalDate dataAdmisao) {
-		this.dataAdmissao = dataAdmisao;
+	public void setDataAdmissao(LocalDate dataAdmissao) {
+		this.dataAdmissao = dataAdmissao;
 	}
 
 	/**

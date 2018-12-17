@@ -1,0 +1,6 @@
+30-10-2018 10:25:46 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 11532 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+30-10-2018 10:25:46 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+30-10-2018 10:25:58 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 12.272 seconds (JVM running for 16.091)
+30-10-2018 11:28:51 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 17908 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+30-10-2018 11:28:51 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+30-10-2018 11:29:02 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 10.716 seconds (JVM running for 12.802)

@@ -12,6 +12,8 @@ import javax.persistence.Id;
 import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 
+import org.springframework.format.annotation.DateTimeFormat;
+
 import br.com.pimentel.model.documentos.DocumentoPF;
 import br.com.pimentel.model.enderecos.EnderecoImpl;
 import br.com.pimentel.model.enums.EstadoCivil;
@@ -32,7 +34,7 @@ public class PessoaFisica implements Serializable {
 	@Column(length=100) private String nome;
 	@Column(length=100) private String naturalidade;
 	@Column(length=100) private String nacionalidade;
-	private LocalDate dataNascimento;
+	@DateTimeFormat(pattern = "yyyy-MM-dd") private LocalDate dataNascimento;
 	@Embedded private EnderecoImpl endereco;
 	@Embedded private DocumentoPF documento;
 	@Column(length=100) private String filiacaoPai;

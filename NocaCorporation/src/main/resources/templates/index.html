@@ -1,29 +1,25 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-	  xmlns:th="http://www.thymeleaf.org"	
-	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-	  th:lang=${#locale.language}>
+<html xmlns:th="http://www.thymeleaf.org"
+	  xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" 
+	  layout:decorate="~{layouts/layout}">
 	
-	<head th:replace="layouts/layout :: layoutHead"></head>
+	<head>
+		<meta charset="utf-8">
+	</head>
 	
-	<body id="home">
-	
-		<header th:replace="layouts/layout :: layoutHeader"></header>
+	<body>		
 		
-		<section>		
-			<section id="carroselSuperior" th:replace="index/carroselSuperior"></section>			
-			<section id="services" th:replace="index/servico :: services"></section>	
-			<section id="about" th:replace="index/sobre :: about"></section>	
-			<section id="portfolio" th:replace="index/frota :: portfolio"></section>	
-			<section id="our-team" th:replace="index/equipe :: our-team"></section>
-			<section id="pricing" th:replace="index/planos :: pricing"></section>	
-			<section id="testimonial" th:replace="index/testimonial :: testimonial"></section>
-			<section id="contact" th:replace="index/contato :: contact"></section>
-			<section id="comoChegar" th:replace="index/comoChegar :: comoChegar"></section>
-		</section>
-		
-		<footer th:replace="layouts/layout :: layoutFooter"></footer>
-		
+		<th:block layout:fragment="content">
+			<section id="carroselSuperior" th:replace="fragments/index/carroselSuperior :: slider"></section>			
+			<section id="services" th:replace="fragments/index/servico :: service"></section>	
+			<section id="about" th:replace="fragments/index/sobre :: about"></section>	
+			<section id="portfolio" th:replace="fragments/index/frota :: frota"></section>	
+			<section id="our-team" th:replace="fragments/index/equipe :: team"></section>
+			<section id="pricing" th:replace="fragments/index/planos :: plans"></section>	
+			<section id="testimonial" th:replace="fragments/index/testimonial :: testimonial"></section>
+			<section id="contact" th:replace="fragments/index/contato :: contact"></section>
+			<section id="comoChegar" th:replace="fragments/index/comoChegar :: map"></section>
+		</th:block>
+			
 	</body>
-	
 </html>

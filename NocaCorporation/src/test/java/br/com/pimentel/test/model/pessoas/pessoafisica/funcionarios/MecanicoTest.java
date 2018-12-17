@@ -60,7 +60,7 @@ public class MecanicoTest {
 	@Test
 	public void testGetSetDataAdmissao() throws ParseException {
 		assertEquals("16/08/1986", mecanico.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
-		mecanico.setDataAdmisao(LocalDate.of(2016, 4, 1));
+		mecanico.setDataAdmissao(LocalDate.of(2016, 4, 1));
 		assertEquals("01/04/2016", mecanico.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
 	}
 

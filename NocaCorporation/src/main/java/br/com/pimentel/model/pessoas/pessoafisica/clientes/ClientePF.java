@@ -30,7 +30,7 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 
 	private String codigo;
 	private Integer quantidadePermitidaLocacao;
-	private Double valorDebito;
+	private Double debito;
 	private LocalDate dataCadastro;	
 	
 	public ClientePF() {
@@ -65,7 +65,7 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 		super(cpf.replaceAll(RETIRAPONTOS, ""), nome, naturalidade, nacionalidade, dataNascimento, endereco, documento, filiacaoPai, filiacaoMae,
 				estadoCivil, grauDeInstrucao, sexo, observacaoPessoa);
 		this.quantidadePermitidaLocacao = quantidadePermitidaLocacao;
-		this.valorDebito = valorDebito;
+		this.debito = valorDebito;
 		this.dataCadastro = dataCadastro;
 		this.codigo=GeradorCodigo.codigoClientePF(cpf, LocalDate.now());		
 	}
@@ -78,6 +78,10 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 		return codigo;
 	}
 	
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
+	}
+
 	/* (non-Javadoc)
 	 * @see br.com.pimentel.model.pessoas.Cliente#getQuantidadePermitidaLocacao()
 	 */
@@ -99,7 +103,7 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 	 */
 	@Override
 	public Double getDebito() {
-		return valorDebito;
+		return debito;
 	}
 
 	/* (non-Javadoc)
@@ -107,7 +111,7 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 	 */
 	@Override
 	public void setDebito(Double debito) {
-		this.valorDebito = debito;
+		this.debito = debito;
 	}
 
 	/* (non-Javadoc)
@@ -176,7 +180,7 @@ public class ClientePF extends PessoaFisica implements Cliente, Serializable {
 	@Override
 	public String toString() {
 		return "ClientePF [codigo=" + codigo + ", quantidadePermitidaLocacao=" + quantidadePermitidaLocacao
-				+ ", valorDebito=" + valorDebito + ", dataCadastro=" + dataCadastro + ", toString()=" + super.toString()
+				+ ", valorDebito=" + debito + ", dataCadastro=" + dataCadastro + ", toString()=" + super.toString()
 				+ "]";
 	}
 

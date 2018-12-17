@@ -60,7 +60,7 @@ public class AssistenteAdministrativoTest {
 	@Test
 	public void testGetSetDataAdmissao() throws ParseException {
 		assertEquals("16/08/1986", assistenteAdministrativo.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
-		assistenteAdministrativo.setDataAdmisao(LocalDate.of(2016, 4, 1));
+		assistenteAdministrativo.setDataAdmissao(LocalDate.of(2016, 4, 1));
 		assertEquals("01/04/2016", assistenteAdministrativo.getDataAdmissao().format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
 	}
 	

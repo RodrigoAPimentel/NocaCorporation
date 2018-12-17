@@ -1,0 +1,1126 @@
+05-11-2018 00:00:45 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 00:00:47 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 00:01:05 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 00:01:06 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 00:01:21 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 14780 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 00:01:21 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 00:01:24 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 3.406 seconds (JVM running for 4015.619)
+05-11-2018 00:01:25 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 00:01:26 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 00:01:52 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 00:01:53 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:37:23 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:37:50 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:37:51 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:38:41 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:38:42 [http-nio-8090-exec-7] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:38:53 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:38:55 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:39:11 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:39:13 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:39:18 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:39:20 [http-nio-8090-exec-9] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:39:57 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:39:58 [http-nio-8090-exec-7] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:42:04 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:42:05 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:42:34 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:42:35 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:43:28 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:43:30 [http-nio-8090-exec-9] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:43:52 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:43:54 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:44:16 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:44:18 [http-nio-8090-exec-10] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:44:28 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:44:29 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:44:46 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:45:18 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:45:19 [http-nio-8090-exec-3] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:45:54 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:46:43 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:46:45 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:46:51 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:46:54 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:28 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:32 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:36 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:47:38 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:47 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:50 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:47:54 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:47:56 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 01:51:30 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 01:51:32 [http-nio-8090-exec-10] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:21:42 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:22:08 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:24:28 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:25:16 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:25:39 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:25:41 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:25:56 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:25:59 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:27:42 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:28:48 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:28:51 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:29:16 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:29:26 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:29:28 [http-nio-8090-exec-10] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:29:47 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:32:10 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 14780 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 09:32:10 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 09:32:13 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 3.652 seconds (JVM running for 38273.705)
+05-11-2018 09:32:13 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:32:18 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:32:30 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:32:32 [http-nio-8090-exec-3] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:33:09 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 09:33:09 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 09:33:18 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 9.415 seconds (JVM running for 11.379)
+05-11-2018 09:33:31 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:33:33 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:34:07 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:34:09 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:35:38 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:35:58 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:36:00 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:37:40 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:37:43 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:38:24 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:38:27 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:39:22 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:39:23 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:40:41 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:40:43 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:40:54 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:41:07 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:41:24 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:41:48 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:41:50 [http-nio-8090-exec-4] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:42:04 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:42:51 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:42:53 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:44:03 [http-nio-8090-exec-7] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:44:08 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:44:10 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:44:39 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:44:40 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:44:56 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:44:58 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:45:10 [http-nio-8090-exec-10] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:45:12 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:45:16 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:45:17 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:45:43 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:45:45 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:45:58 [http-nio-8090-exec-9] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:46:00 [http-nio-8090-exec-7] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:46:03 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:46:04 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:46:22 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:46:23 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:47:01 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:47:02 [http-nio-8090-exec-8] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:47:17 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:47:30 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:47:50 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:47:52 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:48:16 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:48:17 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:49:34 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:49:36 [http-nio-8090-exec-6] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:50:27 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:50:28 [http-nio-8090-exec-2] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:51:28 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:51:29 [http-nio-8090-exec-1] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:51:56 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:51:57 [http-nio-8090-exec-5] {23} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:56:06 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 09:56:06 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 09:57:24 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 09:57:24 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 09:57:28 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.762 seconds (JVM running for 1461.678)
+05-11-2018 09:57:28 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:57:45 [http-nio-8090-exec-7] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:58:23 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 09:58:24 [http-nio-8090-exec-9] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 09:59:31 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 09:59:31 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 09:59:35 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.205 seconds (JVM running for 1588.106)
+05-11-2018 09:59:35 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:01:31 [http-nio-8090-exec-9] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:01:57 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:01:59 [http-nio-8090-exec-2] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:02:10 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:02:29 [http-nio-8090-exec-6] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:02:50 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:02:51 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:03:09 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:03:10 [http-nio-8090-exec-9] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:06:03 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:07:07 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:07:10 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:07:54 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:08:10 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:09:58 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:10:05 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:10:10 [http-nio-8090-exec-4] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:11:21 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:11:21 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:11:27 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.912 seconds (JVM running for 2300.534)
+05-11-2018 10:11:27 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:11:56 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:11:56 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:12:00 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.198 seconds (JVM running for 2333.361)
+05-11-2018 10:12:00 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:12:04 [http-nio-8090-exec-1] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:12:25 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:12:25 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:12:29 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.141 seconds (JVM running for 2362.174)
+05-11-2018 10:12:29 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:12:31 [http-nio-8090-exec-4] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:13:05 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:13:15 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:13:15 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:13:18 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 3.947 seconds (JVM running for 2411.844)
+05-11-2018 10:13:18 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:13:22 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:14:20 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:14:23 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:15:33 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:15:45 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:15:49 [http-nio-8090-exec-8] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:17:18 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:17:19 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:19:27 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:19:36 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:19:54 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:19:54 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:19:58 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.069 seconds (JVM running for 2811.511)
+05-11-2018 10:19:58 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:20:00 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:22:16 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:22:18 [http-nio-8090-exec-7] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:22:58 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:23:00 [http-nio-8090-exec-5] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:23:32 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:23:38 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:23:40 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:24:11 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:24:19 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:25:04 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:25:20 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:25:24 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:25:26 [http-nio-8090-exec-1] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:26:26 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:26:26 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:26:31 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.486 seconds (JVM running for 3204.715)
+05-11-2018 10:26:31 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:26:38 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:26:38 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:26:43 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.009 seconds (JVM running for 3216.66)
+05-11-2018 10:26:43 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:26:58 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:26:58 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:27:05 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.323 seconds (JVM running for 3238.653)
+05-11-2018 10:27:05 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:27:08 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:27:08 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:27:13 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.712 seconds (JVM running for 3246.39)
+05-11-2018 10:27:13 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:27:15 [http-nio-8090-exec-5] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:27:28 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:27:28 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:27:32 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.284 seconds (JVM running for 3265.907)
+05-11-2018 10:27:33 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:27:35 [http-nio-8090-exec-8] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:28:19 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:28:22 [http-nio-8090-exec-6] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:28:57 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:28:59 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:29:34 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:29:34 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:29:40 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.198 seconds (JVM running for 3393.425)
+05-11-2018 10:29:40 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:30:04 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:30:04 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:30:10 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.291 seconds (JVM running for 3423.065)
+05-11-2018 10:30:10 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:30:21 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:30:21 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:30:36 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:30:36 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:30:41 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.326 seconds (JVM running for 3454.241)
+05-11-2018 10:30:41 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:30:42 [http-nio-8090-exec-2] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:30:59 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:30:59 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:31:04 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.781 seconds (JVM running for 3477.422)
+05-11-2018 10:31:04 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:31:17 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:31:17 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:31:22 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.168 seconds (JVM running for 3495.738)
+05-11-2018 10:31:22 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:31:26 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:32:47 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:32:51 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:32:51 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:32:56 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.528 seconds (JVM running for 3589.22)
+05-11-2018 10:32:56 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:33:13 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:33:13 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:33:18 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.638 seconds (JVM running for 3611.302)
+05-11-2018 10:33:18 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:33:46 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:33:46 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:33:50 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.062 seconds (JVM running for 3643.353)
+05-11-2018 10:33:50 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:34:12 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:34:12 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:34:17 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.772 seconds (JVM running for 3670.89)
+05-11-2018 10:34:18 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:34:28 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:34:28 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:34:32 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.314 seconds (JVM running for 3685.708)
+05-11-2018 10:34:32 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:34:38 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:34:45 [http-nio-8090-exec-5] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:34:48 [http-nio-8090-exec-4] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:34:51 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:34:52 [http-nio-8090-exec-1] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:35:08 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:35:08 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:35:13 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.539 seconds (JVM running for 3726.247)
+05-11-2018 10:35:13 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:35:15 [http-nio-8090-exec-8] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:36:20 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:38:01 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:38:03 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:38:19 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:38:22 [http-nio-8090-exec-9] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:39:14 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:39:24 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:39:27 [http-nio-8090-exec-4] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:40:55 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:40:57 [http-nio-8090-exec-2] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:41:25 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:41:26 [http-nio-8090-exec-1] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:42:04 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:42:06 [http-nio-8090-exec-8] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:42:34 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:42:35 [http-nio-8090-exec-6] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:42:44 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:42:45 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:43:17 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:43:19 [http-nio-8090-exec-4] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:43:49 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:43:58 [http-nio-8090-exec-7] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:44:44 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:44:44 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:44:48 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.162 seconds (JVM running for 4301.328)
+05-11-2018 10:44:48 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:44:51 [http-nio-8090-exec-10] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:48:33 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:48:33 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:48:38 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.174 seconds (JVM running for 4531.597)
+05-11-2018 10:48:38 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:48:47 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:48:47 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:48:53 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.692 seconds (JVM running for 4546.02)
+05-11-2018 10:48:53 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:51:08 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 20556 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:51:08 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:51:12 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.219 seconds (JVM running for 4685.73)
+05-11-2018 10:51:12 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:52:54 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:53:11 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 18244 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:53:11 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:53:22 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 11.979 seconds (JVM running for 14.552)
+05-11-2018 10:53:34 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:53:35 [http-nio-8090-exec-3] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:55:19 [http-nio-8090-exec-7] {25} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:55:50 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 18244 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:55:50 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:55:55 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.822 seconds (JVM running for 167.755)
+05-11-2018 10:55:56 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:55:57 [http-nio-8090-exec-3] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:57:33 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 5388 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:57:33 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:57:53 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:57:54 [http-nio-8090-exec-3] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 10:59:14 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 18244 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 10:59:14 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 10:59:20 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.082 seconds (JVM running for 372.637)
+05-11-2018 10:59:25 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 10:59:26 [http-nio-8090-exec-5] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:02:44 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:02:49 [http-nio-8090-exec-1] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:17:37 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:17:37 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:17:48 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 11.276 seconds (JVM running for 13.731)
+05-11-2018 11:18:00 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:18:01 [http-nio-8090-exec-8] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:18:57 [http-nio-8090-exec-10] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:20:14 [http-nio-8090-exec-4] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:20:47 [http-nio-8090-exec-6] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:25:09 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:25:12 [http-nio-8090-exec-1] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:25:40 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:25:42 [http-nio-8090-exec-4] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:25:55 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:25:58 [http-nio-8090-exec-5] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:26:52 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:26:53 [http-nio-8090-exec-7] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:27:12 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:27:17 [http-nio-8090-exec-9] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:28:44 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:29:14 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:29:21 [http-nio-8090-exec-4] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:30:22 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:30:25 [http-nio-8090-exec-6] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:30:52 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:30:56 [http-nio-8090-exec-8] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:32:22 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:32:24 [http-nio-8090-exec-1] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:32:58 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:33:02 [http-nio-8090-exec-2] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:38:17 [http-nio-8090-exec-7] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:39:53 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:39:55 [http-nio-8090-exec-3] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:41:11 [http-nio-8090-exec-5] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:41:46 [http-nio-8090-exec-7] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:42:07 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:42:09 [http-nio-8090-exec-9] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:45:23 [http-nio-8090-exec-1] {26} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:47:18 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:47:18 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:47:22 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.683 seconds (JVM running for 1788.364)
+05-11-2018 11:47:30 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:47:30 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:47:34 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.356 seconds (JVM running for 1800.435)
+05-11-2018 11:47:41 [http-nio-8090-exec-2] {32} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:48:08 [http-nio-8090-exec-1] {32} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:52:32 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:52:32 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:52:37 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.762 seconds (JVM running for 2102.903)
+05-11-2018 11:52:37 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:52:55 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:52:55 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:53:00 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:53:00 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.513 seconds (JVM running for 2125.609)
+05-11-2018 11:53:02 [http-nio-8090-exec-5] {32} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:53:55 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:53:55 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:54:00 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.65 seconds (JVM running for 2185.769)
+05-11-2018 11:54:00 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 11:54:04 [http-nio-8090-exec-3] {32} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 11:56:50 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 11:56:50 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 11:56:54 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.495 seconds (JVM running for 2360.581)
+05-11-2018 13:37:51 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 13:37:51 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 13:37:56 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.496 seconds (JVM running for 8421.96)
+05-11-2018 13:45:25 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 13:45:25 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 13:45:29 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.602 seconds (JVM running for 8875.516)
+05-11-2018 13:47:37 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 13:47:37 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 13:47:43 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.427 seconds (JVM running for 9008.98)
+05-11-2018 13:47:54 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 13:47:54 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 13:47:59 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.817 seconds (JVM running for 9024.735)
+05-11-2018 13:54:47 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 13:57:30 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 13:58:41 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 13:58:41 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 13:58:46 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.488 seconds (JVM running for 9671.852)
+05-11-2018 13:58:46 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 13:58:46 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 13:58:47 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:14:35 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:25:59 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:26:00 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:27:01 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:27:03 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:32:42 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:39:21 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:39:33 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:40:17 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:40:20 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:40:33 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:40:35 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:42:20 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:42:23 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:44:12 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 14:44:12 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 14:44:16 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.628 seconds (JVM running for 12402.489)
+05-11-2018 14:44:17 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:44:29 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:49:55 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:51:40 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 14:51:40 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 14:51:45 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.431 seconds (JVM running for 12851.006)
+05-11-2018 14:51:49 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:52:03 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:55:26 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:55:34 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:56:44 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:56:47 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 14:58:43 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 14:58:43 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 14:58:49 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.462 seconds (JVM running for 13275.065)
+05-11-2018 14:58:49 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 14:58:53 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:00:07 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:00:07 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:00:15 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.22 seconds (JVM running for 13361.3)
+05-11-2018 15:00:15 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:00:19 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:01:08 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:01:08 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:01:15 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.299 seconds (JVM running for 13421.023)
+05-11-2018 15:01:53 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:01:53 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:02:00 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.876 seconds (JVM running for 13466.113)
+05-11-2018 15:02:00 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:02:04 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:03:30 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:03:30 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:03:38 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.225 seconds (JVM running for 13563.626)
+05-11-2018 15:04:40 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:05:31 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:05:35 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:06:05 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:06:09 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:06:39 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:06:42 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:08:04 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:08:04 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:08:09 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.728 seconds (JVM running for 13835.544)
+05-11-2018 15:08:10 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:08:13 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:09:47 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:19:34 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:23:07 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:23:17 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:23:19 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:24:57 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:25:37 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:25:37 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:25:44 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.558 seconds (JVM running for 14890.243)
+05-11-2018 15:25:44 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:25:47 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:25:55 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:26:10 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:28:48 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:31:35 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:32:02 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:32:46 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:44:12 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:44:13 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:45:01 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:45:04 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:45:35 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:45:38 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:46:30 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:48:17 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:48:20 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:50:48 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:51:14 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:51:16 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:52:24 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:52:24 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:52:29 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.964 seconds (JVM running for 16495.162)
+05-11-2018 15:52:43 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:52:44 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:53:14 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:53:22 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:53:38 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:54:27 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:54:27 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:54:32 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.893 seconds (JVM running for 16617.886)
+05-11-2018 15:54:32 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:54:44 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:55:06 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:56:07 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:56:07 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:56:15 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.353 seconds (JVM running for 16720.637)
+05-11-2018 15:56:15 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:56:21 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:56:40 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:57:45 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:57:45 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:57:50 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.136 seconds (JVM running for 16816.445)
+05-11-2018 15:57:51 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:58:00 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 15:58:23 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:59:17 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 15:59:17 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 15:59:22 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 15:59:22 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.883 seconds (JVM running for 16908.24)
+05-11-2018 16:01:27 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:01:27 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:24:09 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:24:09 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:24:17 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.8 seconds (JVM running for 18402.818)
+05-11-2018 16:24:17 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:24:20 [http-nio-8090-exec-1] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:24:33 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:24:36 [http-nio-8090-exec-7] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:24:49 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:26:20 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:26:20 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:26:26 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.276 seconds (JVM running for 18531.801)
+05-11-2018 16:26:26 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:26:59 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:26:59 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:27:05 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.884 seconds (JVM running for 18570.832)
+05-11-2018 16:27:05 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:27:07 [http-nio-8090-exec-1] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:29:00 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:29:00 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:29:06 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.552 seconds (JVM running for 18692.066)
+05-11-2018 16:29:10 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:29:24 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:29:24 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:29:30 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.393 seconds (JVM running for 18715.795)
+05-11-2018 16:29:30 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:29:35 [http-nio-8090-exec-4] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:29:52 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:30:41 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:30:41 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:30:46 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.197 seconds (JVM running for 18792.379)
+05-11-2018 16:30:47 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:30:49 [http-nio-8090-exec-2] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:31:50 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:31:50 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:31:55 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.082 seconds (JVM running for 18861.411)
+05-11-2018 16:32:43 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:32:43 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:32:48 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.824 seconds (JVM running for 18913.814)
+05-11-2018 16:33:04 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:33:04 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:33:09 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.097 seconds (JVM running for 18934.646)
+05-11-2018 16:33:33 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:33:35 [http-nio-8090-exec-5] {36} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:34:07 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:34:07 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:34:12 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.73 seconds (JVM running for 18998.425)
+05-11-2018 16:34:12 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:34:17 [http-nio-8090-exec-8] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:34:50 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:34:50 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:35:06 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:35:06 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:35:12 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.418 seconds (JVM running for 19058.143)
+05-11-2018 16:35:12 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:35:15 [http-nio-8090-exec-2] {36} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:36:00 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:36:00 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:36:07 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.201 seconds (JVM running for 19112.801)
+05-11-2018 16:36:11 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:36:15 [http-nio-8090-exec-7] {35} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:38:32 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:38:32 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:38:38 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.937 seconds (JVM running for 19264.28)
+05-11-2018 16:38:38 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:38:52 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:38:52 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:38:59 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.177 seconds (JVM running for 19284.942)
+05-11-2018 16:38:59 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:40:00 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:40:00 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:40:08 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.381 seconds (JVM running for 19353.906)
+05-11-2018 16:40:08 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:40:18 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:40:18 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:40:23 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.416 seconds (JVM running for 19369.069)
+05-11-2018 16:40:23 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:40:30 [http-nio-8090-exec-2] {36} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:40:57 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:41:53 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:41:53 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:42:07 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:42:07 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:42:14 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.207 seconds (JVM running for 19480.4)
+05-11-2018 16:42:14 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:42:29 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:42:29 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:42:35 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.992 seconds (JVM running for 19500.601)
+05-11-2018 16:42:35 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:42:38 [http-nio-8090-exec-2] {38} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:43:54 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:43:54 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:44:01 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.282 seconds (JVM running for 19587.545)
+05-11-2018 16:45:12 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:45:12 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:45:19 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.251 seconds (JVM running for 19665.002)
+05-11-2018 16:46:46 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:46:46 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:46:52 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.187 seconds (JVM running for 19758.011)
+05-11-2018 16:47:53 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:47:53 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:49:08 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:49:08 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:49:14 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.323 seconds (JVM running for 19899.744)
+05-11-2018 16:49:28 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:49:29 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:49:46 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:49:46 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:49:53 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.25 seconds (JVM running for 19938.678)
+05-11-2018 16:49:53 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:50:09 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:51:13 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:51:19 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:51:28 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:52:22 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:52:24 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:52:54 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:52:54 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:53:04 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:53:04 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:53:11 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 7.254 seconds (JVM running for 20137.577)
+05-11-2018 16:53:12 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:53:21 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:53:21 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:53:27 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.742 seconds (JVM running for 20153.248)
+05-11-2018 16:53:28 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:53:31 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:55:11 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:55:14 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:55:15 [http-nio-8090-exec-2] {31} INFO  b.c.p.controllers.TstController - @@ ABRINDO TST
+05-11-2018 16:55:38 [http-nio-8090-exec-3] {31} INFO  b.c.p.controllers.TstController - @@ ABRINDO TST
+05-11-2018 16:55:45 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:55:45 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:55:51 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.902 seconds (JVM running for 20296.67)
+05-11-2018 16:58:01 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:58:03 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:58:11 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:58:53 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 16:58:53 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 16:59:03 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 10.174 seconds (JVM running for 20488.625)
+05-11-2018 16:59:03 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:59:05 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:59:25 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:59:27 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 16:59:37 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 16:59:39 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:00:06 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 17:00:06 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 17:00:13 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.506 seconds (JVM running for 20558.781)
+05-11-2018 17:00:13 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:00:15 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:00:16 [http-nio-8090-exec-3] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:00:45 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 17:00:45 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 17:00:52 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 6.427 seconds (JVM running for 20597.622)
+05-11-2018 17:00:52 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:00:54 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:00:55 [http-nio-8090-exec-4] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:02:05 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:02:08 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:02:09 [http-nio-8090-exec-10] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:03:19 [http-nio-8090-exec-1] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:03:34 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:03:36 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:03:39 [http-nio-8090-exec-5] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:04:36 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:05:02 [http-nio-8090-exec-8] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:05:48 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:05:50 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:05:51 [http-nio-8090-exec-1] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:05:56 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:06:08 [http-nio-8090-exec-3] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:07:25 [http-nio-8090-exec-5] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:08:09 [http-nio-8090-exec-6] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:08:15 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:08:31 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:08:33 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:08:34 [http-nio-8090-exec-1] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:08:50 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:10:06 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:10:36 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:10:51 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:10:52 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:10:56 [http-nio-8090-exec-10] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:15:24 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:15:25 [http-nio-8090-exec-2] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:15:43 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:15:45 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:15:46 [http-nio-8090-exec-7] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:18:54 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:18:56 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:18:57 [http-nio-8090-exec-7] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:19:53 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:19:55 [http-nio-8090-exec-1] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:20:56 [http-nio-8090-exec-6] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:20:58 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:21:01 [http-nio-8090-exec-3] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:21:08 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:22:15 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:23:12 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:23:13 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:23:15 [http-nio-8090-exec-2] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:23:18 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:24:05 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:24:07 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:24:24 [http-nio-8090-exec-3] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:24:32 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:24:40 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:24:41 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:24:43 [http-nio-8090-exec-7] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:25:34 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:25:35 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:25:37 [http-nio-8090-exec-1] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:26:10 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:26:12 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:26:15 [http-nio-8090-exec-10] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:26:18 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:26:33 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:26:35 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:26:38 [http-nio-8090-exec-7] {47} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO TST
+05-11-2018 17:26:58 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:27:17 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:27:19 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:28:01 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:28:24 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 15772 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 17:28:24 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 17:28:32 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.029 seconds (JVM running for 22258.44)
+05-11-2018 17:28:33 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:28:58 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 17:28:58 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 17:29:12 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 14.083 seconds (JVM running for 16.801)
+05-11-2018 17:29:29 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:29:31 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:30:50 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:31:02 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:31:42 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:31:43 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:32:07 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:32:08 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:32:48 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:32:51 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:33:53 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:33:54 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:34:39 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:34:40 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:35:01 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:35:04 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:36:33 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:36:35 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:37:06 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:37:07 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:37:18 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:37:20 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:38:29 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:38:31 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:46:13 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:46:14 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:47:26 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:47:27 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:48:52 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:48:53 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:48:55 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:50:08 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:50:09 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:52:39 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:52:41 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:52:42 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:52:45 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:52:50 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:54:33 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:54:37 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:55:08 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:55:09 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:56:44 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:56:45 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:56:52 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 17:57:56 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 17:58:12 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:00:16 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:00:17 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:01:25 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:01:26 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:02:42 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:02:44 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:10:42 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:10:43 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:11:11 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:11:12 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:11:42 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:11:43 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:12:07 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:12:19 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:14:54 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:14:56 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:15:20 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:15:22 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:16:14 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:16:16 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:16:21 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:20:43 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:20:44 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:21:20 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:21:23 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:24:01 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:24:02 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:24:54 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:24:55 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:25:48 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:25:50 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:26:03 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:26:06 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:27:01 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:27:02 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:27:44 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:27:45 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:27:48 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:27:55 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:28:44 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:28:46 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:29:04 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:29:29 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:29:30 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:29:56 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:30:09 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:30:36 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:30:38 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:31:37 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:31:40 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:32:34 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:32:35 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:32:51 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:32:52 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:33:39 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:33:41 [http-nio-8090-exec-10] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:33:52 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:33:53 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:34:19 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:34:20 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:37:09 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:37:10 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:37:13 [http-nio-8090-exec-9] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:37:51 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:37:54 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:39:26 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:39:29 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:40:35 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:40:39 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:40:41 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:40:43 [http-nio-8090-exec-6] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:41:31 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:41:33 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:41:52 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:41:54 [http-nio-8090-exec-7] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:42:45 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:42:46 [http-nio-8090-exec-3] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:43:12 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:43:13 [http-nio-8090-exec-4] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:45:08 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:45:09 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:47:15 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:47:17 [http-nio-8090-exec-2] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:47:31 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:47:32 [http-nio-8090-exec-1] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:48:11 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:48:12 [http-nio-8090-exec-5] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:50:45 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:50:47 [http-nio-8090-exec-8] {31} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 18:52:47 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 18:52:47 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 18:52:55 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 8.0 seconds (JVM running for 5039.716)
+05-11-2018 18:52:55 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:52:59 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 18:57:09 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:06:12 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:07:00 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:07:36 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:09:02 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:09:02 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:09:07 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.439 seconds (JVM running for 6011.719)
+05-11-2018 19:09:07 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:09:16 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:09:16 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:09:20 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.51 seconds (JVM running for 6025.484)
+05-11-2018 19:09:21 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:09:23 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:10:04 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:10:10 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:10:52 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:10:54 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:10:58 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:11:15 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:13:19 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:13:22 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:13:27 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:14:02 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:15:53 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:15:55 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:16:29 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:16:42 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:16:42 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:16:46 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.101 seconds (JVM running for 6471.551)
+05-11-2018 19:16:47 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:18:11 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:19:20 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:19:26 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:19:26 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:19:31 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 4.5 seconds (JVM running for 6635.804)
+05-11-2018 19:19:31 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:19:38 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:20:07 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:20:18 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:20:31 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:20:34 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:20:49 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:20:52 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:21:32 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:24:09 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:24:09 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:24:14 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.014 seconds (JVM running for 6918.758)
+05-11-2018 19:31:26 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:32:05 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:32:05 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:32:10 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.189 seconds (JVM running for 7394.63)
+05-11-2018 19:32:10 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:33:07 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:33:10 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:34:07 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:34:31 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:34:31 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:34:36 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.335 seconds (JVM running for 7541.219)
+05-11-2018 19:34:36 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:34:39 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:35:07 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:35:52 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 19:35:52 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 19:35:57 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 5.192 seconds (JVM running for 7621.908)
+05-11-2018 19:35:57 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 19:36:00 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 19:36:26 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 20:58:20 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 13496 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 20:58:20 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 20:58:31 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 10.98 seconds (JVM running for 12575.956)
+05-11-2018 20:58:31 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 20:58:45 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 20:59:31 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:00:38 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:02:41 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:04:25 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:04:28 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:04:30 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:05:24 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:12:00 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:15:34 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:22:26 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:25:31 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:25:32 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:26:10 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:26:13 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:35:58 [restartedMain] {50} INFO  b.c.p.NocaCorporationApplication - Starting NocaCorporationApplication on DESKTOP-H1527R1 with PID 11016 (C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation\target\classes started by pimen in C:\RODRIGO\PROGRAMACAO\WORKSPACES\WORKSPACE_STS\NocaCorporation\NocaCorporation)
+05-11-2018 21:35:58 [restartedMain] {680} INFO  b.c.p.NocaCorporationApplication - No active profile set, falling back to default profiles: default
+05-11-2018 21:36:12 [restartedMain] {59} INFO  b.c.p.NocaCorporationApplication - Started NocaCorporationApplication in 14.74 seconds (JVM running for 17.512)
+05-11-2018 21:36:36 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:36:39 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:37:43 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:38:02 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:38:03 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:38:24 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:38:25 [http-nio-8090-exec-1] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:38:46 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:38:49 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:39:34 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:39:36 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:39:54 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:48:41 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:48:56 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:49:37 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:49:40 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:50:30 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:50:32 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:50:59 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:51:04 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:51:06 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:52:38 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:52:40 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:54:06 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:55:09 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:55:13 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:55:18 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:57:20 [http-nio-8090-exec-6] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:57:23 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:58:02 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:58:04 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:58:13 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:58:18 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:58:19 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:58:39 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:58:44 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:58:47 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:59:26 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:59:29 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 21:59:55 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 21:59:57 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:00:40 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:00:43 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:01:14 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:01:15 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:03:25 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:03:30 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:03:43 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:05:06 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:05:07 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:05:45 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:05:54 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:05:55 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:06:23 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:06:24 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:07:41 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:07:43 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:09:42 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:09:51 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:09:52 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:11:03 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:11:04 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:11:24 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:11:25 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:11:44 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:11:47 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:12:18 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:12:19 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:12:45 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:12:48 [http-nio-8090-exec-2] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:13:05 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:13:06 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:14:12 [http-nio-8090-exec-5] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:14:17 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:14:47 [http-nio-8090-exec-1] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:14:49 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:15:03 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:15:09 [http-nio-8090-exec-10] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:15:20 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:15:26 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:15:27 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:15:47 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:15:48 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:16:00 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:16:02 [http-nio-8090-exec-8] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:16:22 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:16:23 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:17:49 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:17:51 [http-nio-8090-exec-4] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:18:16 [http-nio-8090-exec-8] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:18:18 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:20:03 [http-nio-8090-exec-7] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:20:04 [http-nio-8090-exec-3] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:20:23 [http-nio-8090-exec-4] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:20:25 [http-nio-8090-exec-6] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:20:59 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:21:00 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:23:06 [http-nio-8090-exec-9] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:23:34 [http-nio-8090-exec-2] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:23:53 [http-nio-8090-exec-9] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:24:46 [http-nio-8090-exec-3] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:24:47 [http-nio-8090-exec-5] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO
+05-11-2018 22:26:11 [http-nio-8090-exec-10] {18} INFO  b.c.p.c.DashboardController - @@ ABRINDO DASHBOARD
+05-11-2018 22:26:12 [http-nio-8090-exec-7] {34} INFO  b.c.p.c.FuncionarioController - @@ ABRINDO FUNCIONARIO

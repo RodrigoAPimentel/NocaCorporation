@@ -78,11 +78,26 @@ public class Mecanico extends PessoaFisica implements Funcionario, Serializable 
 	}
 	
 	/* (non-Javadoc)
+	 * @see br.com.pimentel.model.pessoas.pessoafisica.funcionarios.Funcionario#setMatricula(java.lang.String)
+	 */
+	@Override
+	public void setMatricula(String matricula) {
+		this.matricula = matricula;		
+	}
+	
+	/* (non-Javadoc)
 	 * @see br.com.pimentel.test.model.funcionarios.Funcionario#getCargo()
 	 */
 	@Override
 	public Cargo getCargo() {
 		return cargo;
+	}
+	
+	/**
+	 * @param cargo Cargo do Funcionario
+	 */
+	public void setCargo(Cargo cargo) {
+		this.cargo = cargo;
 	}
 
 	/* (non-Javadoc)
@@ -113,8 +128,8 @@ public class Mecanico extends PessoaFisica implements Funcionario, Serializable 
 	 * @see br.com.pimentel.test.model.funcionarios.Funcionario#setDataAdmisao(java.util.Date)
 	 */
 	@Override
-	public void setDataAdmisao(LocalDate dataAdmisao) {
-		this.dataAdmissao = dataAdmisao;
+	public void setDataAdmissao(LocalDate dataAdmissao) {
+		this.dataAdmissao = dataAdmissao;
 	}
 
 	/* (non-Javadoc)
@@ -181,5 +196,5 @@ public class Mecanico extends PessoaFisica implements Funcionario, Serializable 
 		return "AssistenteAdministrativo [ " + super.toString() + "matricula=" + matricula + ", cargo=" + cargo + ", salario=" + salario
 				+ ", dataAdmissao=" + dataAdmissao + "]";
 	}
-
+	
 }

@@ -55,7 +55,7 @@ jQuery(function($) {
             slideSpeed: 500,
             paginationSpeed: 500,
             singleItem: true,
-            navigation: true,
+            navigation: false,
             navigationText: [
                 "<i class='fa fa-angle-left'></i>",
                 "<i class='fa fa-angle-right'></i>"

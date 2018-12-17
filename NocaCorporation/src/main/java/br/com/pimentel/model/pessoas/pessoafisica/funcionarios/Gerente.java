@@ -8,6 +8,8 @@ import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
 
+import org.springframework.format.annotation.DateTimeFormat;
+
 import br.com.pimentel.model.documentos.DocumentoPF;
 import br.com.pimentel.model.enderecos.EnderecoImpl;
 import br.com.pimentel.model.enums.Cargo;
@@ -32,7 +34,7 @@ public class Gerente extends PessoaFisica implements Funcionario, Serializable {
 	@Column(length=20) private String matricula;
 	@Enumerated(EnumType.STRING) private Cargo cargo;
 	private Double salario;
-	private LocalDate dataAdmissao;
+	@DateTimeFormat(pattern = "yyyy-MM-dd") private LocalDate dataAdmissao;
 	private Double porcentagemDeComissao;
 	
 	public Gerente() {
@@ -79,6 +81,14 @@ public class Gerente extends PessoaFisica implements Funcionario, Serializable {
 	public String getMatricula() {
 		return matricula;
 	}
+	
+	/* (non-Javadoc)
+	 * @see br.com.pimentel.model.pessoas.pessoafisica.funcionarios.Funcionario#setMatricula(java.lang.String)
+	 */
+	@Override
+	public void setMatricula(String matricula) {
+		this.matricula = matricula;		
+	}
 
 	/* (non-Javadoc)
 	 * @see br.com.pimentel.test.model.Funcionario#getCargo()
@@ -86,6 +96,13 @@ public class Gerente extends PessoaFisica implements Funcionario, Serializable {
 	@Override
 	public Cargo getCargo() {
 		return cargo;
+	}
+	
+	/**
+	 * @param cargo Cargo do Funcionario
+	 */
+	public void setCargo(Cargo cargo) {
+		this.cargo = cargo;
 	}
 
 	/* (non-Javadoc)
@@ -116,8 +133,8 @@ public class Gerente extends PessoaFisica implements Funcionario, Serializable {
 	 * @see br.com.pimentel.test.model.Funcionario#setDataAdmisao(java.util.Date)
 	 */
 	@Override
-	public void setDataAdmisao(LocalDate dataAdmisao) {
-		this.dataAdmissao = dataAdmisao;
+	public void setDataAdmissao(LocalDate dataAdmissao) {
+		this.dataAdmissao = dataAdmissao;
 	}
 
 	/**
